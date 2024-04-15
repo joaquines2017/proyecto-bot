@@ -1,0 +1,2225 @@
+[
+  {
+    "ref": "ans_343c9c54-9393-4db1-8a85-be70c3b2227b",
+    "keyword": "key_4c877e75-b984-419f-8a7d-968da57b4f3b",
+    "answer": "👋 Hola, gracias por comunicarte con el soporte técnico del MPF✨. Soy el Sr. T-BOT🤖\ntu asistente virtual. Por favor indícame en que puedo ayudarte, elije el número de la opción que deseas consultar (1, 2, o 3) y te ayudaré.😁",
+    "options": {
+      "media": null,
+      "buttons": [],
+      "capture": false,
+      "child": null,
+      "delay": 0,
+      "idle": null,
+      "ref": null,
+      "nested": [],
+      "keyword": {},
+      "callback": false
+    },
+    "refSerialize": "730afdfa9562199999859e4ecb31d70f",
+    "from": "5493815296061"
+  },
+  {
+    "ref": "ans_213eae31-3b80-490b-8737-e38bde6011f4",
+    "keyword": "ans_343c9c54-9393-4db1-8a85-be70c3b2227b",
+    "answer": "👉 *1*-Generar un ticket de soporte técnico\n👉 *2*-Consultar mi ticket\n👉 *3*-Cancelar mi ticket",
+    "options": {
+      "media": null,
+      "buttons": [],
+      "capture": false,
+      "child": null,
+      "delay": 0,
+      "idle": null,
+      "ref": null,
+      "nested": [
+        {
+          "ref": "key_271f8a46-05fc-4b6a-9ff7-78b3de1dab6d",
+          "keyword": [
+            "1"
+          ],
+          "options": {
+            "sensitive": false,
+            "regex": false
+          },
+          "refSerialize": "e0b2cd1acac633ea641e2d526690d369"
+        },
+        {
+          "ref": "ans_c522ec2e-140e-4f9e-9376-10456cb41469",
+          "keyword": "key_271f8a46-05fc-4b6a-9ff7-78b3de1dab6d",
+          "answer": "📄 ¿Que problemas tienes?, por favor elige una de estas opciones 👇",
+          "options": {
+            "media": null,
+            "buttons": [],
+            "capture": false,
+            "child": null,
+            "delay": 0,
+            "idle": null,
+            "ref": null,
+            "nested": [],
+            "keyword": {},
+            "callback": false
+          },
+          "refSerialize": "2444890a76aff163fd2c81bf9c30d201"
+        },
+        {
+          "ref": "ans_5e397107-97da-43e7-bb5e-2749a7c0ff14",
+          "keyword": "ans_c522ec2e-140e-4f9e-9376-10456cb41469",
+          "answer": "\n*1* Problema con impresora o escaner 🖨️.\n\n*2* Problema con el PC 🖥️\n\n*3* Problema con teléfono IP ☎️\n\n*4*- Problema con cámara de seguridad 📹\n\n*5*- Problema  con TV de informes 📺\n\n*6*- Problemas con audiencia 🎧🎙️🖥️",
+          "options": {
+            "media": null,
+            "buttons": [],
+            "capture": false,
+            "child": null,
+            "delay": 0,
+            "idle": null,
+            "ref": null,
+            "nested": [
+              {
+                "ref": "key_549a9bd5-c8c8-4422-8951-b99d104570fe",
+                "keyword": [
+                  "1"
+                ],
+                "options": {
+                  "sensitive": false,
+                  "regex": false
+                },
+                "refSerialize": "e0b2cd1acac633ea641e2d526690d369"
+              },
+              {
+                "ref": "ans_7d2500be-857f-48ab-a272-dbec9e2e9895",
+                "keyword": "key_549a9bd5-c8c8-4422-8951-b99d104570fe",
+                "answer": "Elije el número que más se acerque a tu problema 👇",
+                "options": {
+                  "media": null,
+                  "buttons": [],
+                  "capture": false,
+                  "child": null,
+                  "delay": 0,
+                  "idle": null,
+                  "ref": null,
+                  "nested": [],
+                  "keyword": {},
+                  "callback": false
+                },
+                "refSerialize": "93c4fdc7f9f3f1b737d497d99ee8f858"
+              },
+              {
+                "ref": "ans_a4c3d191-e25b-44c6-80bf-ebd37b465ba2",
+                "keyword": "ans_7d2500be-857f-48ab-a272-dbec9e2e9895",
+                "answer": "\n*1*- Problema de impresión 😓🖨️\n\n*2*- Problema de conexión🖨️❗🔌\n\n*3*- Mensaje de error en pantalla 🚨🔴",
+                "options": {
+                  "media": null,
+                  "buttons": [],
+                  "capture": false,
+                  "child": null,
+                  "delay": 0,
+                  "idle": null,
+                  "ref": null,
+                  "nested": [
+                    {
+                      "ref": "key_854a3a5a-43be-43ae-8305-70b62c70a934",
+                      "keyword": [
+                        "1"
+                      ],
+                      "options": {
+                        "sensitive": false,
+                        "regex": false
+                      },
+                      "refSerialize": "e0b2cd1acac633ea641e2d526690d369"
+                    },
+                    {
+                      "ref": "ans_6d533205-8a67-4906-b787-219c905eedf2",
+                      "keyword": "key_854a3a5a-43be-43ae-8305-70b62c70a934",
+                      "answer": "Elije el número que más se acerque a tu problema 👇",
+                      "options": {
+                        "media": null,
+                        "buttons": [],
+                        "capture": false,
+                        "child": null,
+                        "delay": 0,
+                        "idle": null,
+                        "ref": null,
+                        "nested": [],
+                        "keyword": {},
+                        "callback": false
+                      },
+                      "refSerialize": "879da69054c19dbe6367db32f218a14c"
+                    },
+                    {
+                      "ref": "ans_20699fdd-8328-47f3-b8a4-997a79737fd9",
+                      "keyword": "ans_6d533205-8a67-4906-b787-219c905eedf2",
+                      "answer": "\n*1*- No imprime nada. 🤦\n\n*2*- Imprime borroso. 📃\n\n*3*- Atascos de papel. 📃🖨️\n\n*4*- Imprime  muchos símbolos 💙✔️💲▪️▫️\n\n*5*- Hace ruidos extraños cuando imprime\n\n*6*- Otros  🤷‍♂️",
+                      "options": {
+                        "media": null,
+                        "buttons": [],
+                        "capture": false,
+                        "child": null,
+                        "delay": 0,
+                        "idle": null,
+                        "ref": null,
+                        "nested": [
+                          {
+                            "ref": "key_25a0295c-b88c-4aa2-b14c-8e6d4134768e",
+                            "keyword": [
+                              "1",
+                              "siguiente"
+                            ],
+                            "options": {
+                              "sensitive": false,
+                              "regex": false
+                            },
+                            "refSerialize": "f1cc443069fc015ae6029e3bf09685f6"
+                          },
+                          {
+                            "ref": "ans_8ba691a8-2442-43a5-b408-60ab40de8931",
+                            "keyword": "key_25a0295c-b88c-4aa2-b14c-8e6d4134768e",
+                            "answer": "-🤝Gracias por contactar con la oficina de sistemas - área IT. Hemos generado el ticket N°\n 8033 📋\nel sistema asignó la tarea al técnico 👨‍💻 \"Santiago Rocha.\"\n👉Cerraremos el chat, si necesita algo siempre estaremos disponibles.\n🙏Por favor, nos ayudaría mucho si nos deja una calificación. Del 1 al 5,¿qué tan satisfecho/a está con nuestra atención?🎫 *🎟️* ",
+                            "options": {
+                              "media": null,
+                              "buttons": [],
+                              "capture": false,
+                              "child": null,
+                              "delay": 0,
+                              "idle": null,
+                              "ref": null,
+                              "nested": [],
+                              "keyword": {},
+                              "callback": false
+                            },
+                            "refSerialize": "0fc4d4927624036489cf847fb00a46ca"
+                          },
+                          {
+                            "ref": "ans_6d0f324c-2a86-4809-a83d-404a9d66ee56",
+                            "keyword": "ans_8ba691a8-2442-43a5-b408-60ab40de8931",
+                            "options": {
+                              "media": null,
+                              "buttons": [],
+                              "capture": false,
+                              "child": null,
+                              "delay": 0,
+                              "idle": null,
+                              "ref": null,
+                              "nested": [],
+                              "keyword": {},
+                              "callback": false
+                            },
+                            "refSerialize": "d9f62a177960aa7857067309159ce347"
+                          },
+                          {
+                            "ref": "key_c319ca98-cc34-473b-87c7-c037e07c3642",
+                            "keyword": [
+                              "2",
+                              "siguiente"
+                            ],
+                            "options": {
+                              "sensitive": false,
+                              "regex": false
+                            },
+                            "refSerialize": "dbd7d4c0cf9448a3bda6293a6665acae"
+                          },
+                          {
+                            "ref": "ans_c2750466-dca6-498d-ac2d-71e2881fc11f",
+                            "keyword": "key_c319ca98-cc34-473b-87c7-c037e07c3642",
+                            "answer": "🤝Gracias por contactar con la oficina de sistemas - área IT. Hemos generado el ticket N°\n8037 📋\nel sistema asignó la tarea al técnico 👨‍💻 \"Santiago Marco Rocha\".\n 👉Cerraremos el chat, si necesita algo siempre estaremos disponibles. 🙏Por favor, nos ayudaría mucho si nos deja una calificación. Del 1 al 5,¿qué tan satisfecho/a está con nuestra atención?🎫 *🎟️*",
+                            "options": {
+                              "media": null,
+                              "buttons": [],
+                              "capture": false,
+                              "child": null,
+                              "delay": 0,
+                              "idle": null,
+                              "ref": null,
+                              "nested": [],
+                              "keyword": {},
+                              "callback": false
+                            },
+                            "refSerialize": "ab53dd9a03827dbca4d2bfaeeef10cca"
+                          },
+                          {
+                            "ref": "key_8088aa97-e7a4-4f6f-b6a1-24bfed8deeb1",
+                            "keyword": [
+                              "3",
+                              "siguiente"
+                            ],
+                            "options": {
+                              "sensitive": false,
+                              "regex": false
+                            },
+                            "refSerialize": "85c607e2f4255bb1fb58447531cc59b0"
+                          },
+                          {
+                            "ref": "ans_54328477-ab2d-46f9-a2aa-d0db1a2dd2f3",
+                            "keyword": "key_8088aa97-e7a4-4f6f-b6a1-24bfed8deeb1",
+                            "answer": "🤝Gracias por contactar con la oficina de sistemas - área IT. Hemos generado el ticket N° 8039 📋\nel sistema asignó la tarea al técnico 👨‍💻 \"Miguel Angel Furlan\".\n👉Cerraremos el chat, si necesita algo siempre estaremos disponibles. 🙏Por favor, nos ayudaría mucho si nos deja una calificación. Del 1 al 5,¿qué tan satisfecho/a está con nuestra atención?🎫 *🎟️*",
+                            "options": {
+                              "media": null,
+                              "buttons": [],
+                              "capture": false,
+                              "child": null,
+                              "delay": 0,
+                              "idle": null,
+                              "ref": null,
+                              "nested": [],
+                              "keyword": {},
+                              "callback": false
+                            },
+                            "refSerialize": "dc3b2eea5037c71ccc51061b1561b66a"
+                          },
+                          {
+                            "ref": "key_df0384a0-fdd2-4280-bfcd-9e8929d8564f",
+                            "keyword": [
+                              "4",
+                              "siguiente"
+                            ],
+                            "options": {
+                              "sensitive": false,
+                              "regex": false
+                            },
+                            "refSerialize": "a38b2745eb4352d75af985302f5d0992"
+                          },
+                          {
+                            "ref": "ans_4a827bad-1664-48e6-a972-b068e6a7c72b",
+                            "keyword": "key_df0384a0-fdd2-4280-bfcd-9e8929d8564f",
+                            "answer": "🤝Gracias por contactar con la oficina de sistemas - área IT.\n Hemos generado el ticket N° 8295 📋, el sistema asignó la tarea al técnico 👨‍💻 \"Rodrigo Masaguer\".\n👉Cerraremos el chat, si necesita algo siempre estaremos disponibles.\n🙏Por favor, nos ayudaría mucho si nos deja una calificación. Del 1 al 5,¿qué tan satisfecho/a está con nuestra atención?🎫 *🎟️*",
+                            "options": {
+                              "media": null,
+                              "buttons": [],
+                              "capture": false,
+                              "child": null,
+                              "delay": 0,
+                              "idle": null,
+                              "ref": null,
+                              "nested": [],
+                              "keyword": {},
+                              "callback": false
+                            },
+                            "refSerialize": "be16166712d1f31d87df7dec21c99685"
+                          },
+                          {
+                            "ref": "key_585c7062-ab21-4e3d-bdbb-a13629ac99bd",
+                            "keyword": [
+                              "5",
+                              "siguiente"
+                            ],
+                            "options": {
+                              "sensitive": false,
+                              "regex": false
+                            },
+                            "refSerialize": "8592e8447410161b48f8b05bf6e8a64a"
+                          },
+                          {
+                            "ref": "ans_85e04a27-ec16-4da5-9567-ada06a37983d",
+                            "keyword": "key_585c7062-ab21-4e3d-bdbb-a13629ac99bd",
+                            "answer": "🤝Gracias por contactar con la oficina de sistemas - área IT.\nHemos generado el ticket N° 8032 📋, el sistema asignó la tarea al técnico 👨‍💻 \"Mariano Delgado\".\n👉Cerraremos el chat, si necesita algo siempre estaremos disponibles.\n🙏Por favor, nos ayudaría mucho si nos deja una calificación. Del 1 al 5,¿qué tan satisfecho/a está con nuestra atención?🎫 *🎟️*",
+                            "options": {
+                              "media": null,
+                              "buttons": [],
+                              "capture": false,
+                              "child": null,
+                              "delay": 0,
+                              "idle": null,
+                              "ref": null,
+                              "nested": [],
+                              "keyword": {},
+                              "callback": false
+                            },
+                            "refSerialize": "b1f45568b7fca20b8df51ddfb2d5ee29"
+                          },
+                          {
+                            "ref": "key_03f3f1c4-7ed6-4b7c-aa29-2eb2fa212316",
+                            "keyword": [
+                              "6",
+                              "siguiente"
+                            ],
+                            "options": {
+                              "sensitive": false,
+                              "regex": false
+                            },
+                            "refSerialize": "5d02c070d9ce48cc404250866da8e60a"
+                          },
+                          {
+                            "ref": "ans_c48e794d-64a3-4c92-9517-f9cc1938fad5",
+                            "keyword": "key_03f3f1c4-7ed6-4b7c-aa29-2eb2fa212316",
+                            "answer": "🤝Gracias por contactar con la oficina de sistemas - área IT.\nHemos generado el ticket N° 8296 📋, el sistema asignó la tarea al técnico 👨‍💻 \"José Ruiz\".\n👉Cerraremos el chat, si necesita algo siempre estaremos disponibles.\n🙏Por favor, nos ayudaría mucho si nos deja una calificación. Del 1 al 5,¿qué tan satisfecho/a está con nuestra atención?🎫 *🎟️*",
+                            "options": {
+                              "media": null,
+                              "buttons": [],
+                              "capture": false,
+                              "child": null,
+                              "delay": 0,
+                              "idle": null,
+                              "ref": null,
+                              "nested": [],
+                              "keyword": {},
+                              "callback": false
+                            },
+                            "refSerialize": "7b6035ff9fae16f4d6fd30ffdbc94b73"
+                          }
+                        ],
+                        "keyword": {},
+                        "callback": false
+                      },
+                      "refSerialize": "e5521add14c977546310f1445da22212"
+                    },
+                    {
+                      "ref": "key_550e5108-fcec-4d02-99e1-18b8f1694c96",
+                      "keyword": [
+                        "2"
+                      ],
+                      "options": {
+                        "sensitive": false,
+                        "regex": false
+                      },
+                      "refSerialize": "389a29e5d1b72d14d3fa321bb058be56"
+                    },
+                    {
+                      "ref": "ans_e4f756e7-e72b-4c92-a2a7-f941c4e643d5",
+                      "keyword": "key_550e5108-fcec-4d02-99e1-18b8f1694c96",
+                      "answer": "Elije el número que más se acerque a tu problema 👇",
+                      "options": {
+                        "media": null,
+                        "buttons": [],
+                        "capture": false,
+                        "child": null,
+                        "delay": 0,
+                        "idle": null,
+                        "ref": null,
+                        "nested": [],
+                        "keyword": {},
+                        "callback": false
+                      },
+                      "refSerialize": "4b3ac2583c5916c2353de219e98c32ef"
+                    },
+                    {
+                      "ref": "ans_b6b608de-e109-404d-bef2-b435c5546266",
+                      "keyword": "ans_e4f756e7-e72b-4c92-a2a7-f941c4e643d5",
+                      "answer": "\n*1*- No enciende 🔌🤦\n\n*2*- Se encuentra encendida, pero no muestra indicios de  que esta imprimiento\n\n*3*- Otro  🤷‍♂️",
+                      "options": {
+                        "media": null,
+                        "buttons": [],
+                        "capture": false,
+                        "child": null,
+                        "delay": 0,
+                        "idle": null,
+                        "ref": null,
+                        "nested": [
+                          {
+                            "ref": "key_8c9dbca0-6ff4-434b-94a6-b7de8c75bdd5",
+                            "keyword": [
+                              "1",
+                              "siguiente"
+                            ],
+                            "options": {
+                              "sensitive": false,
+                              "regex": false
+                            },
+                            "refSerialize": "f1cc443069fc015ae6029e3bf09685f6"
+                          },
+                          {
+                            "ref": "ans_ecb88be4-49d1-4fe1-b0c2-a77b535c0c0f",
+                            "keyword": "key_8c9dbca0-6ff4-434b-94a6-b7de8c75bdd5",
+                            "answer": "🤝Gracias por contactar con la oficina de sistemas - área IT.\nHemos generado el ticket N° 8038 📋, el sistema asignó la tarea al técnico 👨‍💻 \"Santiago Marco Rocha\".\n👉Cerraremos el chat, si necesita algo siempre estaremos disponibles.\n🙏Por favor, nos ayudaría mucho si nos deja una calificación. Del 1 al 5,¿qué tan satisfecho/a está con nuestra atención?🎫 *🎟️*",
+                            "options": {
+                              "media": null,
+                              "buttons": [],
+                              "capture": false,
+                              "child": null,
+                              "delay": 0,
+                              "idle": null,
+                              "ref": null,
+                              "nested": [],
+                              "keyword": {},
+                              "callback": false
+                            },
+                            "refSerialize": "c90bf5a7a589008a328dd8f116f8b344"
+                          },
+                          {
+                            "ref": "key_9e1eaf34-6bde-4352-8176-d039c81db02f",
+                            "keyword": [
+                              "2",
+                              "siguiente"
+                            ],
+                            "options": {
+                              "sensitive": false,
+                              "regex": false
+                            },
+                            "refSerialize": "dbd7d4c0cf9448a3bda6293a6665acae"
+                          },
+                          {
+                            "ref": "ans_d4f89b2a-77a3-4e56-b118-5a96eba415bf",
+                            "keyword": "key_9e1eaf34-6bde-4352-8176-d039c81db02f",
+                            "answer": "🤝Gracias por contactar con la oficina de sistemas - área IT.\nHemos generado el ticket N° 8302 📋, el sistema asignó la tarea al técnico 👨‍💻 \"Miguel Angel Furlan\".\n👉Cerraremos el chat, si necesita algo siempre estaremos disponibles.\n🙏Por favor, nos ayudaría mucho si nos deja una calificación. Del 1 al 5,¿qué tan satisfecho/a está con nuestra atención?🎫 *🎟️*",
+                            "options": {
+                              "media": null,
+                              "buttons": [],
+                              "capture": false,
+                              "child": null,
+                              "delay": 0,
+                              "idle": null,
+                              "ref": null,
+                              "nested": [],
+                              "keyword": {},
+                              "callback": false
+                            },
+                            "refSerialize": "8f17c9067da912afa552316c688c417d"
+                          },
+                          {
+                            "ref": "key_03620f32-43e4-4659-b5a7-2e98d7e502c8",
+                            "keyword": [
+                              "3",
+                              "siguiente"
+                            ],
+                            "options": {
+                              "sensitive": false,
+                              "regex": false
+                            },
+                            "refSerialize": "85c607e2f4255bb1fb58447531cc59b0"
+                          },
+                          {
+                            "ref": "ans_8d1c2f97-0798-488b-8f8e-bb33c9f0d7f5",
+                            "keyword": "key_03620f32-43e4-4659-b5a7-2e98d7e502c8",
+                            "answer": "🤝Gracias por contactar con la oficina de sistemas - área IT.\nHemos generado el ticket N° 8304 📋, el sistema asignó la tarea al técnico 👨‍💻 \"Alejandro Gianuzzi\".\n👉Cerraremos el chat, si necesita algo siempre estaremos disponibles.\n🙏Por favor, nos ayudaría mucho si nos deja una calificación. Del 1 al 5,¿qué tan satisfecho/a está con nuestra atención?🎫 *🎟️*",
+                            "options": {
+                              "media": null,
+                              "buttons": [],
+                              "capture": false,
+                              "child": null,
+                              "delay": 0,
+                              "idle": null,
+                              "ref": null,
+                              "nested": [],
+                              "keyword": {},
+                              "callback": false
+                            },
+                            "refSerialize": "5ebce5a446e25b95a3c990d26e2f8b2a"
+                          }
+                        ],
+                        "keyword": {},
+                        "callback": false
+                      },
+                      "refSerialize": "e35c8e372f038e997884e91d1921fde5"
+                    },
+                    {
+                      "ref": "key_c1008d94-aff4-4188-95a8-c4ef79af886b",
+                      "keyword": [
+                        "3"
+                      ],
+                      "options": {
+                        "sensitive": false,
+                        "regex": false
+                      },
+                      "refSerialize": "f527e0d58165f42aac80200dd9e494bc"
+                    },
+                    {
+                      "ref": "ans_28d33368-8e88-4bd5-a437-060faa8eb157",
+                      "keyword": "key_c1008d94-aff4-4188-95a8-c4ef79af886b",
+                      "answer": "Elije el número que más se acerque a tu problema 👇",
+                      "options": {
+                        "media": null,
+                        "buttons": [],
+                        "capture": false,
+                        "child": null,
+                        "delay": 0,
+                        "idle": null,
+                        "ref": null,
+                        "nested": [],
+                        "keyword": {},
+                        "callback": false
+                      },
+                      "refSerialize": "2a2fe01082c6f129bf06e45358991e03"
+                    },
+                    {
+                      "ref": "ans_39ae7fe9-00fa-4242-b102-46f7249a4460",
+                      "keyword": "ans_28d33368-8e88-4bd5-a437-060faa8eb157",
+                      "answer": "\n*1*- Pantalla de error color rojo  🔴❗\n\n*2*- Mensaje sin toner o tinta 🩸\n\n*3*- Falla de fusor ⚙️\n\n*4*- Otro  🤷‍♂️",
+                      "options": {
+                        "media": null,
+                        "buttons": [],
+                        "capture": false,
+                        "child": null,
+                        "delay": 0,
+                        "idle": null,
+                        "ref": null,
+                        "nested": [
+                          {
+                            "ref": "key_f6c547a3-5bfd-468f-9e82-4ab6a847ad93",
+                            "keyword": [
+                              "1",
+                              "siguiente"
+                            ],
+                            "options": {
+                              "sensitive": false,
+                              "regex": false
+                            },
+                            "refSerialize": "f1cc443069fc015ae6029e3bf09685f6"
+                          },
+                          {
+                            "ref": "ans_f9cbe640-66e0-49f9-8ce8-13d1c2c5f873",
+                            "keyword": "key_f6c547a3-5bfd-468f-9e82-4ab6a847ad93",
+                            "answer": "🤝Gracias por contactar con la oficina de sistemas - área IT.\nHemos generado el ticket N° 8305 📋, el sistema asignó la tarea al técnico 👨‍💻 \"Mariano Delgado\".\n👉Cerraremos el chat, si necesita algo siempre estaremos disponibles.\n🙏Por favor, nos ayudaría mucho si nos deja una calificación. Del 1 al 5,¿qué tan satisfecho/a está con nuestra atención?🎫 *🎟️*",
+                            "options": {
+                              "media": null,
+                              "buttons": [],
+                              "capture": false,
+                              "child": null,
+                              "delay": 0,
+                              "idle": null,
+                              "ref": null,
+                              "nested": [],
+                              "keyword": {},
+                              "callback": false
+                            },
+                            "refSerialize": "84f383f65ced43a183ec09fe5051e4af"
+                          },
+                          {
+                            "ref": "key_6ad1fd62-8313-482c-bf2b-e371154b96ea",
+                            "keyword": [
+                              "2",
+                              "siguiente"
+                            ],
+                            "options": {
+                              "sensitive": false,
+                              "regex": false
+                            },
+                            "refSerialize": "dbd7d4c0cf9448a3bda6293a6665acae"
+                          },
+                          {
+                            "ref": "ans_c2b1bf99-1acc-4112-beb1-6a19d228cda6",
+                            "keyword": "key_6ad1fd62-8313-482c-bf2b-e371154b96ea",
+                            "answer": "🤝Gracias por contactar con la oficina de sistemas - área IT.\nHemos generado el ticket N° 8358 📋, el sistema asignó la tarea al técnico 👨‍💻 \"Miguel Angel Furlan\".\n👉Cerraremos el chat, si necesita algo siempre estaremos disponibles.\n🙏Por favor, nos ayudaría mucho si nos deja una calificación. Del 1 al 5,¿qué tan satisfecho/a está con nuestra atención?🎫 *🎟️*",
+                            "options": {
+                              "media": null,
+                              "buttons": [],
+                              "capture": false,
+                              "child": null,
+                              "delay": 0,
+                              "idle": null,
+                              "ref": null,
+                              "nested": [],
+                              "keyword": {},
+                              "callback": false
+                            },
+                            "refSerialize": "e3a2e045dd4345315ccccd6950b82acf"
+                          },
+                          {
+                            "ref": "key_7fb854d0-1340-4cfd-a592-e14d64e2f52f",
+                            "keyword": [
+                              "3",
+                              "siguiente"
+                            ],
+                            "options": {
+                              "sensitive": false,
+                              "regex": false
+                            },
+                            "refSerialize": "85c607e2f4255bb1fb58447531cc59b0"
+                          },
+                          {
+                            "ref": "ans_5ad7577a-ec8b-4377-b963-449687ecc014",
+                            "keyword": "key_7fb854d0-1340-4cfd-a592-e14d64e2f52f",
+                            "answer": "🤝Gracias por contactar con la oficina de sistemas - área IT.\nHemos generado el ticket N° 8359 📋, el sistema asignó la tarea al técnico 👨‍💻 \"Alejandro Gianuzzi\".\n👉Cerraremos el chat, si necesita algo siempre estaremos disponibles.\n🙏Por favor, nos ayudaría mucho si nos deja una calificación. Del 1 al 5,¿qué tan satisfecho/a está con nuestra atención?🎫 *🎟️*",
+                            "options": {
+                              "media": null,
+                              "buttons": [],
+                              "capture": false,
+                              "child": null,
+                              "delay": 0,
+                              "idle": null,
+                              "ref": null,
+                              "nested": [],
+                              "keyword": {},
+                              "callback": false
+                            },
+                            "refSerialize": "91fb9fabd308822ac8842369a61b295b"
+                          },
+                          {
+                            "ref": "key_2de67bcd-29c1-419e-922c-6fdf5a9fd5d9",
+                            "keyword": [
+                              "4",
+                              "siguiente"
+                            ],
+                            "options": {
+                              "sensitive": false,
+                              "regex": false
+                            },
+                            "refSerialize": "a38b2745eb4352d75af985302f5d0992"
+                          },
+                          {
+                            "ref": "ans_c0aca102-0a2f-4fc1-9455-a1a6c776cb65",
+                            "keyword": "key_2de67bcd-29c1-419e-922c-6fdf5a9fd5d9",
+                            "answer": "🤝Gracias por contactar con la oficina de sistemas - área IT.\nHemos generado el ticket N° 8360 📋, el sistema asignó la tarea al técnico 👨‍💻 \"José Ruiz\".\n👉Cerraremos el chat, si necesita algo siempre estaremos disponibles.\n🙏Por favor, nos ayudaría mucho si nos deja una calificación. Del 1 al 5,¿qué tan satisfecho/a está con nuestra atención?🎫 *🎟️*",
+                            "options": {
+                              "media": null,
+                              "buttons": [],
+                              "capture": false,
+                              "child": null,
+                              "delay": 0,
+                              "idle": null,
+                              "ref": null,
+                              "nested": [],
+                              "keyword": {},
+                              "callback": false
+                            },
+                            "refSerialize": "b2b4efb522c0712359f5fe2d0bb75028"
+                          }
+                        ],
+                        "keyword": {},
+                        "callback": false
+                      },
+                      "refSerialize": "ec2c64f874bd547797ef658b14eff4cb"
+                    }
+                  ],
+                  "keyword": {},
+                  "callback": false
+                },
+                "refSerialize": "d9f88d81b0c92e8710dfb82d2f10be87"
+              },
+              {
+                "ref": "key_411b32cc-1e97-4810-b9d4-272d796a899b",
+                "keyword": [
+                  "2"
+                ],
+                "options": {
+                  "sensitive": false,
+                  "regex": false
+                },
+                "refSerialize": "389a29e5d1b72d14d3fa321bb058be56"
+              },
+              {
+                "ref": "ans_1a49a048-c29d-45c8-98c8-da18ba0cef0d",
+                "keyword": "key_411b32cc-1e97-4810-b9d4-272d796a899b",
+                "answer": "Elije el número que más se acerque a tu problema 👇",
+                "options": {
+                  "media": null,
+                  "buttons": [],
+                  "capture": false,
+                  "child": null,
+                  "delay": 0,
+                  "idle": null,
+                  "ref": null,
+                  "nested": [],
+                  "keyword": {},
+                  "callback": false
+                },
+                "refSerialize": "68adce45549ee7bc0348213af651e860"
+              },
+              {
+                "ref": "ans_2aa8a310-e032-46cc-abcb-258d4e3397ac",
+                "keyword": "ans_1a49a048-c29d-45c8-98c8-da18ba0cef0d",
+                "answer": "\n*1*- No tengo internet 🌐\n\n*2*- Mi PC no enciende 🔌\n\n*3*- No funciona el sistema \"SIAL\" 🌐\n\n*4*- No funciona el sistema \"SAE\" 🌐\n\n*5*- No funciona el sitio https://filestorage.mpftucuman.com.a\n\n*6*- No funciona el sitio https://digital.mpftucuman.com.ar\n\n*7*- Problema con programas varios 😟\n\n*8*- Me olvide mi contraseña 🤦\n\n*9*- Otro  🤷‍♂️",
+                "options": {
+                  "media": null,
+                  "buttons": [],
+                  "capture": false,
+                  "child": null,
+                  "delay": 0,
+                  "idle": null,
+                  "ref": null,
+                  "nested": [],
+                  "keyword": {},
+                  "callback": false
+                },
+                "refSerialize": "5dd5c4d4619e1329635b83cafbf52c4c"
+              }
+            ],
+            "keyword": {},
+            "callback": false
+          },
+          "refSerialize": "3b5651993e635bc31c6d63904933920c"
+        }
+      ],
+      "keyword": {},
+      "callback": false
+    },
+    "refSerialize": "faaf6708440651dfe4a7f7d3a7f309e5",
+    "from": "5493815296061"
+  },
+  {
+    "ref": "ans_343c9c54-9393-4db1-8a85-be70c3b2227b",
+    "keyword": "key_4c877e75-b984-419f-8a7d-968da57b4f3b",
+    "answer": "👋 Hola, gracias por comunicarte con el soporte técnico del MPF✨. Soy el Sr. T-BOT🤖\ntu asistente virtual. Por favor indícame en que puedo ayudarte, elije el número de la opción que deseas consultar (1, 2, o 3) y te ayudaré.😁",
+    "options": {
+      "media": null,
+      "buttons": [],
+      "capture": false,
+      "child": null,
+      "delay": 0,
+      "idle": null,
+      "ref": null,
+      "nested": [],
+      "keyword": {},
+      "callback": false
+    },
+    "refSerialize": "730afdfa9562199999859e4ecb31d70f",
+    "from": "5493815681474"
+  },
+  {
+    "ref": "ans_213eae31-3b80-490b-8737-e38bde6011f4",
+    "keyword": "ans_343c9c54-9393-4db1-8a85-be70c3b2227b",
+    "answer": "👉 *1*-Generar un ticket de soporte técnico\n👉 *2*-Consultar mi ticket\n👉 *3*-Cancelar mi ticket",
+    "options": {
+      "media": null,
+      "buttons": [],
+      "capture": false,
+      "child": null,
+      "delay": 0,
+      "idle": null,
+      "ref": null,
+      "nested": [
+        {
+          "ref": "key_271f8a46-05fc-4b6a-9ff7-78b3de1dab6d",
+          "keyword": [
+            "1"
+          ],
+          "options": {
+            "sensitive": false,
+            "regex": false
+          },
+          "refSerialize": "e0b2cd1acac633ea641e2d526690d369"
+        },
+        {
+          "ref": "ans_c522ec2e-140e-4f9e-9376-10456cb41469",
+          "keyword": "key_271f8a46-05fc-4b6a-9ff7-78b3de1dab6d",
+          "answer": "📄 ¿Que problemas tienes?, por favor elige una de estas opciones 👇",
+          "options": {
+            "media": null,
+            "buttons": [],
+            "capture": false,
+            "child": null,
+            "delay": 0,
+            "idle": null,
+            "ref": null,
+            "nested": [],
+            "keyword": {},
+            "callback": false
+          },
+          "refSerialize": "2444890a76aff163fd2c81bf9c30d201"
+        },
+        {
+          "ref": "ans_5e397107-97da-43e7-bb5e-2749a7c0ff14",
+          "keyword": "ans_c522ec2e-140e-4f9e-9376-10456cb41469",
+          "answer": "\n*1* Problema con impresora o escaner 🖨️.\n\n*2* Problema con el PC 🖥️\n\n*3* Problema con teléfono IP ☎️\n\n*4*- Problema con cámara de seguridad 📹\n\n*5*- Problema  con TV de informes 📺\n\n*6*- Problemas con audiencia 🎧🎙️🖥️",
+          "options": {
+            "media": null,
+            "buttons": [],
+            "capture": false,
+            "child": null,
+            "delay": 0,
+            "idle": null,
+            "ref": null,
+            "nested": [
+              {
+                "ref": "key_549a9bd5-c8c8-4422-8951-b99d104570fe",
+                "keyword": [
+                  "1"
+                ],
+                "options": {
+                  "sensitive": false,
+                  "regex": false
+                },
+                "refSerialize": "e0b2cd1acac633ea641e2d526690d369"
+              },
+              {
+                "ref": "ans_7d2500be-857f-48ab-a272-dbec9e2e9895",
+                "keyword": "key_549a9bd5-c8c8-4422-8951-b99d104570fe",
+                "answer": "Elije el número que más se acerque a tu problema 👇",
+                "options": {
+                  "media": null,
+                  "buttons": [],
+                  "capture": false,
+                  "child": null,
+                  "delay": 0,
+                  "idle": null,
+                  "ref": null,
+                  "nested": [],
+                  "keyword": {},
+                  "callback": false
+                },
+                "refSerialize": "93c4fdc7f9f3f1b737d497d99ee8f858"
+              },
+              {
+                "ref": "ans_a4c3d191-e25b-44c6-80bf-ebd37b465ba2",
+                "keyword": "ans_7d2500be-857f-48ab-a272-dbec9e2e9895",
+                "answer": "\n*1*- Problema de impresión 😓🖨️\n\n*2*- Problema de conexión🖨️❗🔌\n\n*3*- Mensaje de error en pantalla 🚨🔴",
+                "options": {
+                  "media": null,
+                  "buttons": [],
+                  "capture": false,
+                  "child": null,
+                  "delay": 0,
+                  "idle": null,
+                  "ref": null,
+                  "nested": [
+                    {
+                      "ref": "key_854a3a5a-43be-43ae-8305-70b62c70a934",
+                      "keyword": [
+                        "1"
+                      ],
+                      "options": {
+                        "sensitive": false,
+                        "regex": false
+                      },
+                      "refSerialize": "e0b2cd1acac633ea641e2d526690d369"
+                    },
+                    {
+                      "ref": "ans_6d533205-8a67-4906-b787-219c905eedf2",
+                      "keyword": "key_854a3a5a-43be-43ae-8305-70b62c70a934",
+                      "answer": "Elije el número que más se acerque a tu problema 👇",
+                      "options": {
+                        "media": null,
+                        "buttons": [],
+                        "capture": false,
+                        "child": null,
+                        "delay": 0,
+                        "idle": null,
+                        "ref": null,
+                        "nested": [],
+                        "keyword": {},
+                        "callback": false
+                      },
+                      "refSerialize": "879da69054c19dbe6367db32f218a14c"
+                    },
+                    {
+                      "ref": "ans_20699fdd-8328-47f3-b8a4-997a79737fd9",
+                      "keyword": "ans_6d533205-8a67-4906-b787-219c905eedf2",
+                      "answer": "\n*1*- No imprime nada. 🤦\n\n*2*- Imprime borroso. 📃\n\n*3*- Atascos de papel. 📃🖨️\n\n*4*- Imprime  muchos símbolos 💙✔️💲▪️▫️\n\n*5*- Hace ruidos extraños cuando imprime\n\n*6*- Otros  🤷‍♂️",
+                      "options": {
+                        "media": null,
+                        "buttons": [],
+                        "capture": false,
+                        "child": null,
+                        "delay": 0,
+                        "idle": null,
+                        "ref": null,
+                        "nested": [
+                          {
+                            "ref": "key_25a0295c-b88c-4aa2-b14c-8e6d4134768e",
+                            "keyword": [
+                              "1",
+                              "siguiente"
+                            ],
+                            "options": {
+                              "sensitive": false,
+                              "regex": false
+                            },
+                            "refSerialize": "f1cc443069fc015ae6029e3bf09685f6"
+                          },
+                          {
+                            "ref": "ans_8ba691a8-2442-43a5-b408-60ab40de8931",
+                            "keyword": "key_25a0295c-b88c-4aa2-b14c-8e6d4134768e",
+                            "answer": "-🤝Gracias por contactar con la oficina de sistemas - área IT. Hemos generado el ticket N°\n 8033 📋\nel sistema asignó la tarea al técnico 👨‍💻 \"Santiago Rocha.\"\n👉Cerraremos el chat, si necesita algo siempre estaremos disponibles.\n🙏Por favor, nos ayudaría mucho si nos deja una calificación. Del 1 al 5,¿qué tan satisfecho/a está con nuestra atención?🎫 *🎟️* ",
+                            "options": {
+                              "media": null,
+                              "buttons": [],
+                              "capture": false,
+                              "child": null,
+                              "delay": 0,
+                              "idle": null,
+                              "ref": null,
+                              "nested": [],
+                              "keyword": {},
+                              "callback": false
+                            },
+                            "refSerialize": "0fc4d4927624036489cf847fb00a46ca"
+                          },
+                          {
+                            "ref": "ans_6d0f324c-2a86-4809-a83d-404a9d66ee56",
+                            "keyword": "ans_8ba691a8-2442-43a5-b408-60ab40de8931",
+                            "options": {
+                              "media": null,
+                              "buttons": [],
+                              "capture": false,
+                              "child": null,
+                              "delay": 0,
+                              "idle": null,
+                              "ref": null,
+                              "nested": [],
+                              "keyword": {},
+                              "callback": false
+                            },
+                            "refSerialize": "d9f62a177960aa7857067309159ce347"
+                          },
+                          {
+                            "ref": "key_c319ca98-cc34-473b-87c7-c037e07c3642",
+                            "keyword": [
+                              "2",
+                              "siguiente"
+                            ],
+                            "options": {
+                              "sensitive": false,
+                              "regex": false
+                            },
+                            "refSerialize": "dbd7d4c0cf9448a3bda6293a6665acae"
+                          },
+                          {
+                            "ref": "ans_c2750466-dca6-498d-ac2d-71e2881fc11f",
+                            "keyword": "key_c319ca98-cc34-473b-87c7-c037e07c3642",
+                            "answer": "🤝Gracias por contactar con la oficina de sistemas - área IT. Hemos generado el ticket N°\n8037 📋\nel sistema asignó la tarea al técnico 👨‍💻 \"Santiago Marco Rocha\".\n 👉Cerraremos el chat, si necesita algo siempre estaremos disponibles. 🙏Por favor, nos ayudaría mucho si nos deja una calificación. Del 1 al 5,¿qué tan satisfecho/a está con nuestra atención?🎫 *🎟️*",
+                            "options": {
+                              "media": null,
+                              "buttons": [],
+                              "capture": false,
+                              "child": null,
+                              "delay": 0,
+                              "idle": null,
+                              "ref": null,
+                              "nested": [],
+                              "keyword": {},
+                              "callback": false
+                            },
+                            "refSerialize": "ab53dd9a03827dbca4d2bfaeeef10cca"
+                          },
+                          {
+                            "ref": "key_8088aa97-e7a4-4f6f-b6a1-24bfed8deeb1",
+                            "keyword": [
+                              "3",
+                              "siguiente"
+                            ],
+                            "options": {
+                              "sensitive": false,
+                              "regex": false
+                            },
+                            "refSerialize": "85c607e2f4255bb1fb58447531cc59b0"
+                          },
+                          {
+                            "ref": "ans_54328477-ab2d-46f9-a2aa-d0db1a2dd2f3",
+                            "keyword": "key_8088aa97-e7a4-4f6f-b6a1-24bfed8deeb1",
+                            "answer": "🤝Gracias por contactar con la oficina de sistemas - área IT. Hemos generado el ticket N° 8039 📋\nel sistema asignó la tarea al técnico 👨‍💻 \"Miguel Angel Furlan\".\n👉Cerraremos el chat, si necesita algo siempre estaremos disponibles. 🙏Por favor, nos ayudaría mucho si nos deja una calificación. Del 1 al 5,¿qué tan satisfecho/a está con nuestra atención?🎫 *🎟️*",
+                            "options": {
+                              "media": null,
+                              "buttons": [],
+                              "capture": false,
+                              "child": null,
+                              "delay": 0,
+                              "idle": null,
+                              "ref": null,
+                              "nested": [],
+                              "keyword": {},
+                              "callback": false
+                            },
+                            "refSerialize": "dc3b2eea5037c71ccc51061b1561b66a"
+                          },
+                          {
+                            "ref": "key_df0384a0-fdd2-4280-bfcd-9e8929d8564f",
+                            "keyword": [
+                              "4",
+                              "siguiente"
+                            ],
+                            "options": {
+                              "sensitive": false,
+                              "regex": false
+                            },
+                            "refSerialize": "a38b2745eb4352d75af985302f5d0992"
+                          },
+                          {
+                            "ref": "ans_4a827bad-1664-48e6-a972-b068e6a7c72b",
+                            "keyword": "key_df0384a0-fdd2-4280-bfcd-9e8929d8564f",
+                            "answer": "🤝Gracias por contactar con la oficina de sistemas - área IT.\n Hemos generado el ticket N° 8295 📋, el sistema asignó la tarea al técnico 👨‍💻 \"Rodrigo Masaguer\".\n👉Cerraremos el chat, si necesita algo siempre estaremos disponibles.\n🙏Por favor, nos ayudaría mucho si nos deja una calificación. Del 1 al 5,¿qué tan satisfecho/a está con nuestra atención?🎫 *🎟️*",
+                            "options": {
+                              "media": null,
+                              "buttons": [],
+                              "capture": false,
+                              "child": null,
+                              "delay": 0,
+                              "idle": null,
+                              "ref": null,
+                              "nested": [],
+                              "keyword": {},
+                              "callback": false
+                            },
+                            "refSerialize": "be16166712d1f31d87df7dec21c99685"
+                          },
+                          {
+                            "ref": "key_585c7062-ab21-4e3d-bdbb-a13629ac99bd",
+                            "keyword": [
+                              "5",
+                              "siguiente"
+                            ],
+                            "options": {
+                              "sensitive": false,
+                              "regex": false
+                            },
+                            "refSerialize": "8592e8447410161b48f8b05bf6e8a64a"
+                          },
+                          {
+                            "ref": "ans_85e04a27-ec16-4da5-9567-ada06a37983d",
+                            "keyword": "key_585c7062-ab21-4e3d-bdbb-a13629ac99bd",
+                            "answer": "🤝Gracias por contactar con la oficina de sistemas - área IT.\nHemos generado el ticket N° 8032 📋, el sistema asignó la tarea al técnico 👨‍💻 \"Mariano Delgado\".\n👉Cerraremos el chat, si necesita algo siempre estaremos disponibles.\n🙏Por favor, nos ayudaría mucho si nos deja una calificación. Del 1 al 5,¿qué tan satisfecho/a está con nuestra atención?🎫 *🎟️*",
+                            "options": {
+                              "media": null,
+                              "buttons": [],
+                              "capture": false,
+                              "child": null,
+                              "delay": 0,
+                              "idle": null,
+                              "ref": null,
+                              "nested": [],
+                              "keyword": {},
+                              "callback": false
+                            },
+                            "refSerialize": "b1f45568b7fca20b8df51ddfb2d5ee29"
+                          },
+                          {
+                            "ref": "key_03f3f1c4-7ed6-4b7c-aa29-2eb2fa212316",
+                            "keyword": [
+                              "6",
+                              "siguiente"
+                            ],
+                            "options": {
+                              "sensitive": false,
+                              "regex": false
+                            },
+                            "refSerialize": "5d02c070d9ce48cc404250866da8e60a"
+                          },
+                          {
+                            "ref": "ans_c48e794d-64a3-4c92-9517-f9cc1938fad5",
+                            "keyword": "key_03f3f1c4-7ed6-4b7c-aa29-2eb2fa212316",
+                            "answer": "🤝Gracias por contactar con la oficina de sistemas - área IT.\nHemos generado el ticket N° 8296 📋, el sistema asignó la tarea al técnico 👨‍💻 \"José Ruiz\".\n👉Cerraremos el chat, si necesita algo siempre estaremos disponibles.\n🙏Por favor, nos ayudaría mucho si nos deja una calificación. Del 1 al 5,¿qué tan satisfecho/a está con nuestra atención?🎫 *🎟️*",
+                            "options": {
+                              "media": null,
+                              "buttons": [],
+                              "capture": false,
+                              "child": null,
+                              "delay": 0,
+                              "idle": null,
+                              "ref": null,
+                              "nested": [],
+                              "keyword": {},
+                              "callback": false
+                            },
+                            "refSerialize": "7b6035ff9fae16f4d6fd30ffdbc94b73"
+                          }
+                        ],
+                        "keyword": {},
+                        "callback": false
+                      },
+                      "refSerialize": "e5521add14c977546310f1445da22212"
+                    },
+                    {
+                      "ref": "key_550e5108-fcec-4d02-99e1-18b8f1694c96",
+                      "keyword": [
+                        "2"
+                      ],
+                      "options": {
+                        "sensitive": false,
+                        "regex": false
+                      },
+                      "refSerialize": "389a29e5d1b72d14d3fa321bb058be56"
+                    },
+                    {
+                      "ref": "ans_e4f756e7-e72b-4c92-a2a7-f941c4e643d5",
+                      "keyword": "key_550e5108-fcec-4d02-99e1-18b8f1694c96",
+                      "answer": "Elije el número que más se acerque a tu problema 👇",
+                      "options": {
+                        "media": null,
+                        "buttons": [],
+                        "capture": false,
+                        "child": null,
+                        "delay": 0,
+                        "idle": null,
+                        "ref": null,
+                        "nested": [],
+                        "keyword": {},
+                        "callback": false
+                      },
+                      "refSerialize": "4b3ac2583c5916c2353de219e98c32ef"
+                    },
+                    {
+                      "ref": "ans_b6b608de-e109-404d-bef2-b435c5546266",
+                      "keyword": "ans_e4f756e7-e72b-4c92-a2a7-f941c4e643d5",
+                      "answer": "\n*1*- No enciende 🔌🤦\n\n*2*- Se encuentra encendida, pero no muestra indicios de  que esta imprimiento\n\n*3*- Otro  🤷‍♂️",
+                      "options": {
+                        "media": null,
+                        "buttons": [],
+                        "capture": false,
+                        "child": null,
+                        "delay": 0,
+                        "idle": null,
+                        "ref": null,
+                        "nested": [
+                          {
+                            "ref": "key_8c9dbca0-6ff4-434b-94a6-b7de8c75bdd5",
+                            "keyword": [
+                              "1",
+                              "siguiente"
+                            ],
+                            "options": {
+                              "sensitive": false,
+                              "regex": false
+                            },
+                            "refSerialize": "f1cc443069fc015ae6029e3bf09685f6"
+                          },
+                          {
+                            "ref": "ans_ecb88be4-49d1-4fe1-b0c2-a77b535c0c0f",
+                            "keyword": "key_8c9dbca0-6ff4-434b-94a6-b7de8c75bdd5",
+                            "answer": "🤝Gracias por contactar con la oficina de sistemas - área IT.\nHemos generado el ticket N° 8038 📋, el sistema asignó la tarea al técnico 👨‍💻 \"Santiago Marco Rocha\".\n👉Cerraremos el chat, si necesita algo siempre estaremos disponibles.\n🙏Por favor, nos ayudaría mucho si nos deja una calificación. Del 1 al 5,¿qué tan satisfecho/a está con nuestra atención?🎫 *🎟️*",
+                            "options": {
+                              "media": null,
+                              "buttons": [],
+                              "capture": false,
+                              "child": null,
+                              "delay": 0,
+                              "idle": null,
+                              "ref": null,
+                              "nested": [],
+                              "keyword": {},
+                              "callback": false
+                            },
+                            "refSerialize": "c90bf5a7a589008a328dd8f116f8b344"
+                          },
+                          {
+                            "ref": "key_9e1eaf34-6bde-4352-8176-d039c81db02f",
+                            "keyword": [
+                              "2",
+                              "siguiente"
+                            ],
+                            "options": {
+                              "sensitive": false,
+                              "regex": false
+                            },
+                            "refSerialize": "dbd7d4c0cf9448a3bda6293a6665acae"
+                          },
+                          {
+                            "ref": "ans_d4f89b2a-77a3-4e56-b118-5a96eba415bf",
+                            "keyword": "key_9e1eaf34-6bde-4352-8176-d039c81db02f",
+                            "answer": "🤝Gracias por contactar con la oficina de sistemas - área IT.\nHemos generado el ticket N° 8302 📋, el sistema asignó la tarea al técnico 👨‍💻 \"Miguel Angel Furlan\".\n👉Cerraremos el chat, si necesita algo siempre estaremos disponibles.\n🙏Por favor, nos ayudaría mucho si nos deja una calificación. Del 1 al 5,¿qué tan satisfecho/a está con nuestra atención?🎫 *🎟️*",
+                            "options": {
+                              "media": null,
+                              "buttons": [],
+                              "capture": false,
+                              "child": null,
+                              "delay": 0,
+                              "idle": null,
+                              "ref": null,
+                              "nested": [],
+                              "keyword": {},
+                              "callback": false
+                            },
+                            "refSerialize": "8f17c9067da912afa552316c688c417d"
+                          },
+                          {
+                            "ref": "key_03620f32-43e4-4659-b5a7-2e98d7e502c8",
+                            "keyword": [
+                              "3",
+                              "siguiente"
+                            ],
+                            "options": {
+                              "sensitive": false,
+                              "regex": false
+                            },
+                            "refSerialize": "85c607e2f4255bb1fb58447531cc59b0"
+                          },
+                          {
+                            "ref": "ans_8d1c2f97-0798-488b-8f8e-bb33c9f0d7f5",
+                            "keyword": "key_03620f32-43e4-4659-b5a7-2e98d7e502c8",
+                            "answer": "🤝Gracias por contactar con la oficina de sistemas - área IT.\nHemos generado el ticket N° 8304 📋, el sistema asignó la tarea al técnico 👨‍💻 \"Alejandro Gianuzzi\".\n👉Cerraremos el chat, si necesita algo siempre estaremos disponibles.\n🙏Por favor, nos ayudaría mucho si nos deja una calificación. Del 1 al 5,¿qué tan satisfecho/a está con nuestra atención?🎫 *🎟️*",
+                            "options": {
+                              "media": null,
+                              "buttons": [],
+                              "capture": false,
+                              "child": null,
+                              "delay": 0,
+                              "idle": null,
+                              "ref": null,
+                              "nested": [],
+                              "keyword": {},
+                              "callback": false
+                            },
+                            "refSerialize": "5ebce5a446e25b95a3c990d26e2f8b2a"
+                          }
+                        ],
+                        "keyword": {},
+                        "callback": false
+                      },
+                      "refSerialize": "e35c8e372f038e997884e91d1921fde5"
+                    },
+                    {
+                      "ref": "key_c1008d94-aff4-4188-95a8-c4ef79af886b",
+                      "keyword": [
+                        "3"
+                      ],
+                      "options": {
+                        "sensitive": false,
+                        "regex": false
+                      },
+                      "refSerialize": "f527e0d58165f42aac80200dd9e494bc"
+                    },
+                    {
+                      "ref": "ans_28d33368-8e88-4bd5-a437-060faa8eb157",
+                      "keyword": "key_c1008d94-aff4-4188-95a8-c4ef79af886b",
+                      "answer": "Elije el número que más se acerque a tu problema 👇",
+                      "options": {
+                        "media": null,
+                        "buttons": [],
+                        "capture": false,
+                        "child": null,
+                        "delay": 0,
+                        "idle": null,
+                        "ref": null,
+                        "nested": [],
+                        "keyword": {},
+                        "callback": false
+                      },
+                      "refSerialize": "2a2fe01082c6f129bf06e45358991e03"
+                    },
+                    {
+                      "ref": "ans_39ae7fe9-00fa-4242-b102-46f7249a4460",
+                      "keyword": "ans_28d33368-8e88-4bd5-a437-060faa8eb157",
+                      "answer": "\n*1*- Pantalla de error color rojo  🔴❗\n\n*2*- Mensaje sin toner o tinta 🩸\n\n*3*- Falla de fusor ⚙️\n\n*4*- Otro  🤷‍♂️",
+                      "options": {
+                        "media": null,
+                        "buttons": [],
+                        "capture": false,
+                        "child": null,
+                        "delay": 0,
+                        "idle": null,
+                        "ref": null,
+                        "nested": [
+                          {
+                            "ref": "key_f6c547a3-5bfd-468f-9e82-4ab6a847ad93",
+                            "keyword": [
+                              "1",
+                              "siguiente"
+                            ],
+                            "options": {
+                              "sensitive": false,
+                              "regex": false
+                            },
+                            "refSerialize": "f1cc443069fc015ae6029e3bf09685f6"
+                          },
+                          {
+                            "ref": "ans_f9cbe640-66e0-49f9-8ce8-13d1c2c5f873",
+                            "keyword": "key_f6c547a3-5bfd-468f-9e82-4ab6a847ad93",
+                            "answer": "🤝Gracias por contactar con la oficina de sistemas - área IT.\nHemos generado el ticket N° 8305 📋, el sistema asignó la tarea al técnico 👨‍💻 \"Mariano Delgado\".\n👉Cerraremos el chat, si necesita algo siempre estaremos disponibles.\n🙏Por favor, nos ayudaría mucho si nos deja una calificación. Del 1 al 5,¿qué tan satisfecho/a está con nuestra atención?🎫 *🎟️*",
+                            "options": {
+                              "media": null,
+                              "buttons": [],
+                              "capture": false,
+                              "child": null,
+                              "delay": 0,
+                              "idle": null,
+                              "ref": null,
+                              "nested": [],
+                              "keyword": {},
+                              "callback": false
+                            },
+                            "refSerialize": "84f383f65ced43a183ec09fe5051e4af"
+                          },
+                          {
+                            "ref": "key_6ad1fd62-8313-482c-bf2b-e371154b96ea",
+                            "keyword": [
+                              "2",
+                              "siguiente"
+                            ],
+                            "options": {
+                              "sensitive": false,
+                              "regex": false
+                            },
+                            "refSerialize": "dbd7d4c0cf9448a3bda6293a6665acae"
+                          },
+                          {
+                            "ref": "ans_c2b1bf99-1acc-4112-beb1-6a19d228cda6",
+                            "keyword": "key_6ad1fd62-8313-482c-bf2b-e371154b96ea",
+                            "answer": "🤝Gracias por contactar con la oficina de sistemas - área IT.\nHemos generado el ticket N° 8358 📋, el sistema asignó la tarea al técnico 👨‍💻 \"Miguel Angel Furlan\".\n👉Cerraremos el chat, si necesita algo siempre estaremos disponibles.\n🙏Por favor, nos ayudaría mucho si nos deja una calificación. Del 1 al 5,¿qué tan satisfecho/a está con nuestra atención?🎫 *🎟️*",
+                            "options": {
+                              "media": null,
+                              "buttons": [],
+                              "capture": false,
+                              "child": null,
+                              "delay": 0,
+                              "idle": null,
+                              "ref": null,
+                              "nested": [],
+                              "keyword": {},
+                              "callback": false
+                            },
+                            "refSerialize": "e3a2e045dd4345315ccccd6950b82acf"
+                          },
+                          {
+                            "ref": "key_7fb854d0-1340-4cfd-a592-e14d64e2f52f",
+                            "keyword": [
+                              "3",
+                              "siguiente"
+                            ],
+                            "options": {
+                              "sensitive": false,
+                              "regex": false
+                            },
+                            "refSerialize": "85c607e2f4255bb1fb58447531cc59b0"
+                          },
+                          {
+                            "ref": "ans_5ad7577a-ec8b-4377-b963-449687ecc014",
+                            "keyword": "key_7fb854d0-1340-4cfd-a592-e14d64e2f52f",
+                            "answer": "🤝Gracias por contactar con la oficina de sistemas - área IT.\nHemos generado el ticket N° 8359 📋, el sistema asignó la tarea al técnico 👨‍💻 \"Alejandro Gianuzzi\".\n👉Cerraremos el chat, si necesita algo siempre estaremos disponibles.\n🙏Por favor, nos ayudaría mucho si nos deja una calificación. Del 1 al 5,¿qué tan satisfecho/a está con nuestra atención?🎫 *🎟️*",
+                            "options": {
+                              "media": null,
+                              "buttons": [],
+                              "capture": false,
+                              "child": null,
+                              "delay": 0,
+                              "idle": null,
+                              "ref": null,
+                              "nested": [],
+                              "keyword": {},
+                              "callback": false
+                            },
+                            "refSerialize": "91fb9fabd308822ac8842369a61b295b"
+                          },
+                          {
+                            "ref": "key_2de67bcd-29c1-419e-922c-6fdf5a9fd5d9",
+                            "keyword": [
+                              "4",
+                              "siguiente"
+                            ],
+                            "options": {
+                              "sensitive": false,
+                              "regex": false
+                            },
+                            "refSerialize": "a38b2745eb4352d75af985302f5d0992"
+                          },
+                          {
+                            "ref": "ans_c0aca102-0a2f-4fc1-9455-a1a6c776cb65",
+                            "keyword": "key_2de67bcd-29c1-419e-922c-6fdf5a9fd5d9",
+                            "answer": "🤝Gracias por contactar con la oficina de sistemas - área IT.\nHemos generado el ticket N° 8360 📋, el sistema asignó la tarea al técnico 👨‍💻 \"José Ruiz\".\n👉Cerraremos el chat, si necesita algo siempre estaremos disponibles.\n🙏Por favor, nos ayudaría mucho si nos deja una calificación. Del 1 al 5,¿qué tan satisfecho/a está con nuestra atención?🎫 *🎟️*",
+                            "options": {
+                              "media": null,
+                              "buttons": [],
+                              "capture": false,
+                              "child": null,
+                              "delay": 0,
+                              "idle": null,
+                              "ref": null,
+                              "nested": [],
+                              "keyword": {},
+                              "callback": false
+                            },
+                            "refSerialize": "b2b4efb522c0712359f5fe2d0bb75028"
+                          }
+                        ],
+                        "keyword": {},
+                        "callback": false
+                      },
+                      "refSerialize": "ec2c64f874bd547797ef658b14eff4cb"
+                    }
+                  ],
+                  "keyword": {},
+                  "callback": false
+                },
+                "refSerialize": "d9f88d81b0c92e8710dfb82d2f10be87"
+              },
+              {
+                "ref": "key_411b32cc-1e97-4810-b9d4-272d796a899b",
+                "keyword": [
+                  "2"
+                ],
+                "options": {
+                  "sensitive": false,
+                  "regex": false
+                },
+                "refSerialize": "389a29e5d1b72d14d3fa321bb058be56"
+              },
+              {
+                "ref": "ans_1a49a048-c29d-45c8-98c8-da18ba0cef0d",
+                "keyword": "key_411b32cc-1e97-4810-b9d4-272d796a899b",
+                "answer": "Elije el número que más se acerque a tu problema 👇",
+                "options": {
+                  "media": null,
+                  "buttons": [],
+                  "capture": false,
+                  "child": null,
+                  "delay": 0,
+                  "idle": null,
+                  "ref": null,
+                  "nested": [],
+                  "keyword": {},
+                  "callback": false
+                },
+                "refSerialize": "68adce45549ee7bc0348213af651e860"
+              },
+              {
+                "ref": "ans_2aa8a310-e032-46cc-abcb-258d4e3397ac",
+                "keyword": "ans_1a49a048-c29d-45c8-98c8-da18ba0cef0d",
+                "answer": "\n*1*- No tengo internet 🌐\n\n*2*- Mi PC no enciende 🔌\n\n*3*- No funciona el sistema \"SIAL\" 🌐\n\n*4*- No funciona el sistema \"SAE\" 🌐\n\n*5*- No funciona el sitio https://filestorage.mpftucuman.com.a\n\n*6*- No funciona el sitio https://digital.mpftucuman.com.ar\n\n*7*- Problema con programas varios 😟\n\n*8*- Me olvide mi contraseña 🤦\n\n*9*- Otro  🤷‍♂️",
+                "options": {
+                  "media": null,
+                  "buttons": [],
+                  "capture": false,
+                  "child": null,
+                  "delay": 0,
+                  "idle": null,
+                  "ref": null,
+                  "nested": [],
+                  "keyword": {},
+                  "callback": false
+                },
+                "refSerialize": "5dd5c4d4619e1329635b83cafbf52c4c"
+              }
+            ],
+            "keyword": {},
+            "callback": false
+          },
+          "refSerialize": "3b5651993e635bc31c6d63904933920c"
+        }
+      ],
+      "keyword": {},
+      "callback": false
+    },
+    "refSerialize": "faaf6708440651dfe4a7f7d3a7f309e5",
+    "from": "5493815681474"
+  },
+  {
+    "ref": "0f8617bb-7075-498c-86a1-464e835c3b60",
+    "keyword": "faaf6708440651dfe4a7f7d3a7f309e5",
+    "answer": "🎂🎂🎂🥳🥳🥳🥳😘😘😘😘😘",
+    "options": {},
+    "from": "5493815681474",
+    "refSerialize": "b703dc525368d6e2bc331631d2c95032"
+  },
+  {
+    "ref": "a1517198-80f9-4629-a135-e74d2531616c",
+    "keyword": "b703dc525368d6e2bc331631d2c95032",
+    "answer": "FELIZ CUMPLE 🥳🥳🥳🥳🎂🎂🎂🎂 PARA ANTHONY",
+    "options": {},
+    "from": "5493815681474",
+    "refSerialize": "744a078195db670cd3b94501009648f4"
+  },
+  {
+    "ref": "ans_343c9c54-9393-4db1-8a85-be70c3b2227b",
+    "keyword": "key_4c877e75-b984-419f-8a7d-968da57b4f3b",
+    "answer": "👋 Hola, gracias por comunicarte con el soporte técnico del MPF✨. Soy el Sr. T-BOT🤖\ntu asistente virtual. Por favor indícame en que puedo ayudarte, elije el número de la opción que deseas consultar (1, 2, o 3) y te ayudaré.😁",
+    "options": {
+      "media": null,
+      "buttons": [],
+      "capture": false,
+      "child": null,
+      "delay": 0,
+      "idle": null,
+      "ref": null,
+      "nested": [],
+      "keyword": {},
+      "callback": false
+    },
+    "refSerialize": "730afdfa9562199999859e4ecb31d70f",
+    "from": "5493815681474"
+  },
+  {
+    "ref": "ans_213eae31-3b80-490b-8737-e38bde6011f4",
+    "keyword": "ans_343c9c54-9393-4db1-8a85-be70c3b2227b",
+    "answer": "👉 *1*-Generar un ticket de soporte técnico\n👉 *2*-Consultar mi ticket\n👉 *3*-Cancelar mi ticket",
+    "options": {
+      "media": null,
+      "buttons": [],
+      "capture": false,
+      "child": null,
+      "delay": 0,
+      "idle": null,
+      "ref": null,
+      "nested": [
+        {
+          "ref": "key_271f8a46-05fc-4b6a-9ff7-78b3de1dab6d",
+          "keyword": [
+            "1"
+          ],
+          "options": {
+            "sensitive": false,
+            "regex": false
+          },
+          "refSerialize": "e0b2cd1acac633ea641e2d526690d369"
+        },
+        {
+          "ref": "ans_c522ec2e-140e-4f9e-9376-10456cb41469",
+          "keyword": "key_271f8a46-05fc-4b6a-9ff7-78b3de1dab6d",
+          "answer": "📄 ¿Que problemas tienes?, por favor elige una de estas opciones 👇",
+          "options": {
+            "media": null,
+            "buttons": [],
+            "capture": false,
+            "child": null,
+            "delay": 0,
+            "idle": null,
+            "ref": null,
+            "nested": [],
+            "keyword": {},
+            "callback": false
+          },
+          "refSerialize": "2444890a76aff163fd2c81bf9c30d201"
+        },
+        {
+          "ref": "ans_5e397107-97da-43e7-bb5e-2749a7c0ff14",
+          "keyword": "ans_c522ec2e-140e-4f9e-9376-10456cb41469",
+          "answer": "\n*1* Problema con impresora o escaner 🖨️.\n\n*2* Problema con el PC 🖥️\n\n*3* Problema con teléfono IP ☎️\n\n*4*- Problema con cámara de seguridad 📹\n\n*5*- Problema  con TV de informes 📺\n\n*6*- Problemas con audiencia 🎧🎙️🖥️",
+          "options": {
+            "media": null,
+            "buttons": [],
+            "capture": false,
+            "child": null,
+            "delay": 0,
+            "idle": null,
+            "ref": null,
+            "nested": [
+              {
+                "ref": "key_549a9bd5-c8c8-4422-8951-b99d104570fe",
+                "keyword": [
+                  "1"
+                ],
+                "options": {
+                  "sensitive": false,
+                  "regex": false
+                },
+                "refSerialize": "e0b2cd1acac633ea641e2d526690d369"
+              },
+              {
+                "ref": "ans_7d2500be-857f-48ab-a272-dbec9e2e9895",
+                "keyword": "key_549a9bd5-c8c8-4422-8951-b99d104570fe",
+                "answer": "Elije el número que más se acerque a tu problema 👇",
+                "options": {
+                  "media": null,
+                  "buttons": [],
+                  "capture": false,
+                  "child": null,
+                  "delay": 0,
+                  "idle": null,
+                  "ref": null,
+                  "nested": [],
+                  "keyword": {},
+                  "callback": false
+                },
+                "refSerialize": "93c4fdc7f9f3f1b737d497d99ee8f858"
+              },
+              {
+                "ref": "ans_a4c3d191-e25b-44c6-80bf-ebd37b465ba2",
+                "keyword": "ans_7d2500be-857f-48ab-a272-dbec9e2e9895",
+                "answer": "\n*1*- Problema de impresión 😓🖨️\n\n*2*- Problema de conexión🖨️❗🔌\n\n*3*- Mensaje de error en pantalla 🚨🔴",
+                "options": {
+                  "media": null,
+                  "buttons": [],
+                  "capture": false,
+                  "child": null,
+                  "delay": 0,
+                  "idle": null,
+                  "ref": null,
+                  "nested": [
+                    {
+                      "ref": "key_854a3a5a-43be-43ae-8305-70b62c70a934",
+                      "keyword": [
+                        "1"
+                      ],
+                      "options": {
+                        "sensitive": false,
+                        "regex": false
+                      },
+                      "refSerialize": "e0b2cd1acac633ea641e2d526690d369"
+                    },
+                    {
+                      "ref": "ans_6d533205-8a67-4906-b787-219c905eedf2",
+                      "keyword": "key_854a3a5a-43be-43ae-8305-70b62c70a934",
+                      "answer": "Elije el número que más se acerque a tu problema 👇",
+                      "options": {
+                        "media": null,
+                        "buttons": [],
+                        "capture": false,
+                        "child": null,
+                        "delay": 0,
+                        "idle": null,
+                        "ref": null,
+                        "nested": [],
+                        "keyword": {},
+                        "callback": false
+                      },
+                      "refSerialize": "879da69054c19dbe6367db32f218a14c"
+                    },
+                    {
+                      "ref": "ans_20699fdd-8328-47f3-b8a4-997a79737fd9",
+                      "keyword": "ans_6d533205-8a67-4906-b787-219c905eedf2",
+                      "answer": "\n*1*- No imprime nada. 🤦\n\n*2*- Imprime borroso. 📃\n\n*3*- Atascos de papel. 📃🖨️\n\n*4*- Imprime  muchos símbolos 💙✔️💲▪️▫️\n\n*5*- Hace ruidos extraños cuando imprime\n\n*6*- Otros  🤷‍♂️",
+                      "options": {
+                        "media": null,
+                        "buttons": [],
+                        "capture": false,
+                        "child": null,
+                        "delay": 0,
+                        "idle": null,
+                        "ref": null,
+                        "nested": [
+                          {
+                            "ref": "key_25a0295c-b88c-4aa2-b14c-8e6d4134768e",
+                            "keyword": [
+                              "1",
+                              "siguiente"
+                            ],
+                            "options": {
+                              "sensitive": false,
+                              "regex": false
+                            },
+                            "refSerialize": "f1cc443069fc015ae6029e3bf09685f6"
+                          },
+                          {
+                            "ref": "ans_8ba691a8-2442-43a5-b408-60ab40de8931",
+                            "keyword": "key_25a0295c-b88c-4aa2-b14c-8e6d4134768e",
+                            "answer": "-🤝Gracias por contactar con la oficina de sistemas - área IT. Hemos generado el ticket N°\n 8033 📋\nel sistema asignó la tarea al técnico 👨‍💻 \"Santiago Rocha.\"\n👉Cerraremos el chat, si necesita algo siempre estaremos disponibles.\n🙏Por favor, nos ayudaría mucho si nos deja una calificación. Del 1 al 5,¿qué tan satisfecho/a está con nuestra atención?🎫 *🎟️* ",
+                            "options": {
+                              "media": null,
+                              "buttons": [],
+                              "capture": false,
+                              "child": null,
+                              "delay": 0,
+                              "idle": null,
+                              "ref": null,
+                              "nested": [],
+                              "keyword": {},
+                              "callback": false
+                            },
+                            "refSerialize": "0fc4d4927624036489cf847fb00a46ca"
+                          },
+                          {
+                            "ref": "ans_6d0f324c-2a86-4809-a83d-404a9d66ee56",
+                            "keyword": "ans_8ba691a8-2442-43a5-b408-60ab40de8931",
+                            "options": {
+                              "media": null,
+                              "buttons": [],
+                              "capture": false,
+                              "child": null,
+                              "delay": 0,
+                              "idle": null,
+                              "ref": null,
+                              "nested": [],
+                              "keyword": {},
+                              "callback": false
+                            },
+                            "refSerialize": "d9f62a177960aa7857067309159ce347"
+                          },
+                          {
+                            "ref": "key_c319ca98-cc34-473b-87c7-c037e07c3642",
+                            "keyword": [
+                              "2",
+                              "siguiente"
+                            ],
+                            "options": {
+                              "sensitive": false,
+                              "regex": false
+                            },
+                            "refSerialize": "dbd7d4c0cf9448a3bda6293a6665acae"
+                          },
+                          {
+                            "ref": "ans_c2750466-dca6-498d-ac2d-71e2881fc11f",
+                            "keyword": "key_c319ca98-cc34-473b-87c7-c037e07c3642",
+                            "answer": "🤝Gracias por contactar con la oficina de sistemas - área IT. Hemos generado el ticket N°\n8037 📋\nel sistema asignó la tarea al técnico 👨‍💻 \"Santiago Marco Rocha\".\n 👉Cerraremos el chat, si necesita algo siempre estaremos disponibles. 🙏Por favor, nos ayudaría mucho si nos deja una calificación. Del 1 al 5,¿qué tan satisfecho/a está con nuestra atención?🎫 *🎟️*",
+                            "options": {
+                              "media": null,
+                              "buttons": [],
+                              "capture": false,
+                              "child": null,
+                              "delay": 0,
+                              "idle": null,
+                              "ref": null,
+                              "nested": [],
+                              "keyword": {},
+                              "callback": false
+                            },
+                            "refSerialize": "ab53dd9a03827dbca4d2bfaeeef10cca"
+                          },
+                          {
+                            "ref": "key_8088aa97-e7a4-4f6f-b6a1-24bfed8deeb1",
+                            "keyword": [
+                              "3",
+                              "siguiente"
+                            ],
+                            "options": {
+                              "sensitive": false,
+                              "regex": false
+                            },
+                            "refSerialize": "85c607e2f4255bb1fb58447531cc59b0"
+                          },
+                          {
+                            "ref": "ans_54328477-ab2d-46f9-a2aa-d0db1a2dd2f3",
+                            "keyword": "key_8088aa97-e7a4-4f6f-b6a1-24bfed8deeb1",
+                            "answer": "🤝Gracias por contactar con la oficina de sistemas - área IT. Hemos generado el ticket N° 8039 📋\nel sistema asignó la tarea al técnico 👨‍💻 \"Miguel Angel Furlan\".\n👉Cerraremos el chat, si necesita algo siempre estaremos disponibles. 🙏Por favor, nos ayudaría mucho si nos deja una calificación. Del 1 al 5,¿qué tan satisfecho/a está con nuestra atención?🎫 *🎟️*",
+                            "options": {
+                              "media": null,
+                              "buttons": [],
+                              "capture": false,
+                              "child": null,
+                              "delay": 0,
+                              "idle": null,
+                              "ref": null,
+                              "nested": [],
+                              "keyword": {},
+                              "callback": false
+                            },
+                            "refSerialize": "dc3b2eea5037c71ccc51061b1561b66a"
+                          },
+                          {
+                            "ref": "key_df0384a0-fdd2-4280-bfcd-9e8929d8564f",
+                            "keyword": [
+                              "4",
+                              "siguiente"
+                            ],
+                            "options": {
+                              "sensitive": false,
+                              "regex": false
+                            },
+                            "refSerialize": "a38b2745eb4352d75af985302f5d0992"
+                          },
+                          {
+                            "ref": "ans_4a827bad-1664-48e6-a972-b068e6a7c72b",
+                            "keyword": "key_df0384a0-fdd2-4280-bfcd-9e8929d8564f",
+                            "answer": "🤝Gracias por contactar con la oficina de sistemas - área IT.\n Hemos generado el ticket N° 8295 📋, el sistema asignó la tarea al técnico 👨‍💻 \"Rodrigo Masaguer\".\n👉Cerraremos el chat, si necesita algo siempre estaremos disponibles.\n🙏Por favor, nos ayudaría mucho si nos deja una calificación. Del 1 al 5,¿qué tan satisfecho/a está con nuestra atención?🎫 *🎟️*",
+                            "options": {
+                              "media": null,
+                              "buttons": [],
+                              "capture": false,
+                              "child": null,
+                              "delay": 0,
+                              "idle": null,
+                              "ref": null,
+                              "nested": [],
+                              "keyword": {},
+                              "callback": false
+                            },
+                            "refSerialize": "be16166712d1f31d87df7dec21c99685"
+                          },
+                          {
+                            "ref": "key_585c7062-ab21-4e3d-bdbb-a13629ac99bd",
+                            "keyword": [
+                              "5",
+                              "siguiente"
+                            ],
+                            "options": {
+                              "sensitive": false,
+                              "regex": false
+                            },
+                            "refSerialize": "8592e8447410161b48f8b05bf6e8a64a"
+                          },
+                          {
+                            "ref": "ans_85e04a27-ec16-4da5-9567-ada06a37983d",
+                            "keyword": "key_585c7062-ab21-4e3d-bdbb-a13629ac99bd",
+                            "answer": "🤝Gracias por contactar con la oficina de sistemas - área IT.\nHemos generado el ticket N° 8032 📋, el sistema asignó la tarea al técnico 👨‍💻 \"Mariano Delgado\".\n👉Cerraremos el chat, si necesita algo siempre estaremos disponibles.\n🙏Por favor, nos ayudaría mucho si nos deja una calificación. Del 1 al 5,¿qué tan satisfecho/a está con nuestra atención?🎫 *🎟️*",
+                            "options": {
+                              "media": null,
+                              "buttons": [],
+                              "capture": false,
+                              "child": null,
+                              "delay": 0,
+                              "idle": null,
+                              "ref": null,
+                              "nested": [],
+                              "keyword": {},
+                              "callback": false
+                            },
+                            "refSerialize": "b1f45568b7fca20b8df51ddfb2d5ee29"
+                          },
+                          {
+                            "ref": "key_03f3f1c4-7ed6-4b7c-aa29-2eb2fa212316",
+                            "keyword": [
+                              "6",
+                              "siguiente"
+                            ],
+                            "options": {
+                              "sensitive": false,
+                              "regex": false
+                            },
+                            "refSerialize": "5d02c070d9ce48cc404250866da8e60a"
+                          },
+                          {
+                            "ref": "ans_c48e794d-64a3-4c92-9517-f9cc1938fad5",
+                            "keyword": "key_03f3f1c4-7ed6-4b7c-aa29-2eb2fa212316",
+                            "answer": "🤝Gracias por contactar con la oficina de sistemas - área IT.\nHemos generado el ticket N° 8296 📋, el sistema asignó la tarea al técnico 👨‍💻 \"José Ruiz\".\n👉Cerraremos el chat, si necesita algo siempre estaremos disponibles.\n🙏Por favor, nos ayudaría mucho si nos deja una calificación. Del 1 al 5,¿qué tan satisfecho/a está con nuestra atención?🎫 *🎟️*",
+                            "options": {
+                              "media": null,
+                              "buttons": [],
+                              "capture": false,
+                              "child": null,
+                              "delay": 0,
+                              "idle": null,
+                              "ref": null,
+                              "nested": [],
+                              "keyword": {},
+                              "callback": false
+                            },
+                            "refSerialize": "7b6035ff9fae16f4d6fd30ffdbc94b73"
+                          }
+                        ],
+                        "keyword": {},
+                        "callback": false
+                      },
+                      "refSerialize": "e5521add14c977546310f1445da22212"
+                    },
+                    {
+                      "ref": "key_550e5108-fcec-4d02-99e1-18b8f1694c96",
+                      "keyword": [
+                        "2"
+                      ],
+                      "options": {
+                        "sensitive": false,
+                        "regex": false
+                      },
+                      "refSerialize": "389a29e5d1b72d14d3fa321bb058be56"
+                    },
+                    {
+                      "ref": "ans_e4f756e7-e72b-4c92-a2a7-f941c4e643d5",
+                      "keyword": "key_550e5108-fcec-4d02-99e1-18b8f1694c96",
+                      "answer": "Elije el número que más se acerque a tu problema 👇",
+                      "options": {
+                        "media": null,
+                        "buttons": [],
+                        "capture": false,
+                        "child": null,
+                        "delay": 0,
+                        "idle": null,
+                        "ref": null,
+                        "nested": [],
+                        "keyword": {},
+                        "callback": false
+                      },
+                      "refSerialize": "4b3ac2583c5916c2353de219e98c32ef"
+                    },
+                    {
+                      "ref": "ans_b6b608de-e109-404d-bef2-b435c5546266",
+                      "keyword": "ans_e4f756e7-e72b-4c92-a2a7-f941c4e643d5",
+                      "answer": "\n*1*- No enciende 🔌🤦\n\n*2*- Se encuentra encendida, pero no muestra indicios de  que esta imprimiento\n\n*3*- Otro  🤷‍♂️",
+                      "options": {
+                        "media": null,
+                        "buttons": [],
+                        "capture": false,
+                        "child": null,
+                        "delay": 0,
+                        "idle": null,
+                        "ref": null,
+                        "nested": [
+                          {
+                            "ref": "key_8c9dbca0-6ff4-434b-94a6-b7de8c75bdd5",
+                            "keyword": [
+                              "1",
+                              "siguiente"
+                            ],
+                            "options": {
+                              "sensitive": false,
+                              "regex": false
+                            },
+                            "refSerialize": "f1cc443069fc015ae6029e3bf09685f6"
+                          },
+                          {
+                            "ref": "ans_ecb88be4-49d1-4fe1-b0c2-a77b535c0c0f",
+                            "keyword": "key_8c9dbca0-6ff4-434b-94a6-b7de8c75bdd5",
+                            "answer": "🤝Gracias por contactar con la oficina de sistemas - área IT.\nHemos generado el ticket N° 8038 📋, el sistema asignó la tarea al técnico 👨‍💻 \"Santiago Marco Rocha\".\n👉Cerraremos el chat, si necesita algo siempre estaremos disponibles.\n🙏Por favor, nos ayudaría mucho si nos deja una calificación. Del 1 al 5,¿qué tan satisfecho/a está con nuestra atención?🎫 *🎟️*",
+                            "options": {
+                              "media": null,
+                              "buttons": [],
+                              "capture": false,
+                              "child": null,
+                              "delay": 0,
+                              "idle": null,
+                              "ref": null,
+                              "nested": [],
+                              "keyword": {},
+                              "callback": false
+                            },
+                            "refSerialize": "c90bf5a7a589008a328dd8f116f8b344"
+                          },
+                          {
+                            "ref": "key_9e1eaf34-6bde-4352-8176-d039c81db02f",
+                            "keyword": [
+                              "2",
+                              "siguiente"
+                            ],
+                            "options": {
+                              "sensitive": false,
+                              "regex": false
+                            },
+                            "refSerialize": "dbd7d4c0cf9448a3bda6293a6665acae"
+                          },
+                          {
+                            "ref": "ans_d4f89b2a-77a3-4e56-b118-5a96eba415bf",
+                            "keyword": "key_9e1eaf34-6bde-4352-8176-d039c81db02f",
+                            "answer": "🤝Gracias por contactar con la oficina de sistemas - área IT.\nHemos generado el ticket N° 8302 📋, el sistema asignó la tarea al técnico 👨‍💻 \"Miguel Angel Furlan\".\n👉Cerraremos el chat, si necesita algo siempre estaremos disponibles.\n🙏Por favor, nos ayudaría mucho si nos deja una calificación. Del 1 al 5,¿qué tan satisfecho/a está con nuestra atención?🎫 *🎟️*",
+                            "options": {
+                              "media": null,
+                              "buttons": [],
+                              "capture": false,
+                              "child": null,
+                              "delay": 0,
+                              "idle": null,
+                              "ref": null,
+                              "nested": [],
+                              "keyword": {},
+                              "callback": false
+                            },
+                            "refSerialize": "8f17c9067da912afa552316c688c417d"
+                          },
+                          {
+                            "ref": "key_03620f32-43e4-4659-b5a7-2e98d7e502c8",
+                            "keyword": [
+                              "3",
+                              "siguiente"
+                            ],
+                            "options": {
+                              "sensitive": false,
+                              "regex": false
+                            },
+                            "refSerialize": "85c607e2f4255bb1fb58447531cc59b0"
+                          },
+                          {
+                            "ref": "ans_8d1c2f97-0798-488b-8f8e-bb33c9f0d7f5",
+                            "keyword": "key_03620f32-43e4-4659-b5a7-2e98d7e502c8",
+                            "answer": "🤝Gracias por contactar con la oficina de sistemas - área IT.\nHemos generado el ticket N° 8304 📋, el sistema asignó la tarea al técnico 👨‍💻 \"Alejandro Gianuzzi\".\n👉Cerraremos el chat, si necesita algo siempre estaremos disponibles.\n🙏Por favor, nos ayudaría mucho si nos deja una calificación. Del 1 al 5,¿qué tan satisfecho/a está con nuestra atención?🎫 *🎟️*",
+                            "options": {
+                              "media": null,
+                              "buttons": [],
+                              "capture": false,
+                              "child": null,
+                              "delay": 0,
+                              "idle": null,
+                              "ref": null,
+                              "nested": [],
+                              "keyword": {},
+                              "callback": false
+                            },
+                            "refSerialize": "5ebce5a446e25b95a3c990d26e2f8b2a"
+                          }
+                        ],
+                        "keyword": {},
+                        "callback": false
+                      },
+                      "refSerialize": "e35c8e372f038e997884e91d1921fde5"
+                    },
+                    {
+                      "ref": "key_c1008d94-aff4-4188-95a8-c4ef79af886b",
+                      "keyword": [
+                        "3"
+                      ],
+                      "options": {
+                        "sensitive": false,
+                        "regex": false
+                      },
+                      "refSerialize": "f527e0d58165f42aac80200dd9e494bc"
+                    },
+                    {
+                      "ref": "ans_28d33368-8e88-4bd5-a437-060faa8eb157",
+                      "keyword": "key_c1008d94-aff4-4188-95a8-c4ef79af886b",
+                      "answer": "Elije el número que más se acerque a tu problema 👇",
+                      "options": {
+                        "media": null,
+                        "buttons": [],
+                        "capture": false,
+                        "child": null,
+                        "delay": 0,
+                        "idle": null,
+                        "ref": null,
+                        "nested": [],
+                        "keyword": {},
+                        "callback": false
+                      },
+                      "refSerialize": "2a2fe01082c6f129bf06e45358991e03"
+                    },
+                    {
+                      "ref": "ans_39ae7fe9-00fa-4242-b102-46f7249a4460",
+                      "keyword": "ans_28d33368-8e88-4bd5-a437-060faa8eb157",
+                      "answer": "\n*1*- Pantalla de error color rojo  🔴❗\n\n*2*- Mensaje sin toner o tinta 🩸\n\n*3*- Falla de fusor ⚙️\n\n*4*- Otro  🤷‍♂️",
+                      "options": {
+                        "media": null,
+                        "buttons": [],
+                        "capture": false,
+                        "child": null,
+                        "delay": 0,
+                        "idle": null,
+                        "ref": null,
+                        "nested": [
+                          {
+                            "ref": "key_f6c547a3-5bfd-468f-9e82-4ab6a847ad93",
+                            "keyword": [
+                              "1",
+                              "siguiente"
+                            ],
+                            "options": {
+                              "sensitive": false,
+                              "regex": false
+                            },
+                            "refSerialize": "f1cc443069fc015ae6029e3bf09685f6"
+                          },
+                          {
+                            "ref": "ans_f9cbe640-66e0-49f9-8ce8-13d1c2c5f873",
+                            "keyword": "key_f6c547a3-5bfd-468f-9e82-4ab6a847ad93",
+                            "answer": "🤝Gracias por contactar con la oficina de sistemas - área IT.\nHemos generado el ticket N° 8305 📋, el sistema asignó la tarea al técnico 👨‍💻 \"Mariano Delgado\".\n👉Cerraremos el chat, si necesita algo siempre estaremos disponibles.\n🙏Por favor, nos ayudaría mucho si nos deja una calificación. Del 1 al 5,¿qué tan satisfecho/a está con nuestra atención?🎫 *🎟️*",
+                            "options": {
+                              "media": null,
+                              "buttons": [],
+                              "capture": false,
+                              "child": null,
+                              "delay": 0,
+                              "idle": null,
+                              "ref": null,
+                              "nested": [],
+                              "keyword": {},
+                              "callback": false
+                            },
+                            "refSerialize": "84f383f65ced43a183ec09fe5051e4af"
+                          },
+                          {
+                            "ref": "key_6ad1fd62-8313-482c-bf2b-e371154b96ea",
+                            "keyword": [
+                              "2",
+                              "siguiente"
+                            ],
+                            "options": {
+                              "sensitive": false,
+                              "regex": false
+                            },
+                            "refSerialize": "dbd7d4c0cf9448a3bda6293a6665acae"
+                          },
+                          {
+                            "ref": "ans_c2b1bf99-1acc-4112-beb1-6a19d228cda6",
+                            "keyword": "key_6ad1fd62-8313-482c-bf2b-e371154b96ea",
+                            "answer": "🤝Gracias por contactar con la oficina de sistemas - área IT.\nHemos generado el ticket N° 8358 📋, el sistema asignó la tarea al técnico 👨‍💻 \"Miguel Angel Furlan\".\n👉Cerraremos el chat, si necesita algo siempre estaremos disponibles.\n🙏Por favor, nos ayudaría mucho si nos deja una calificación. Del 1 al 5,¿qué tan satisfecho/a está con nuestra atención?🎫 *🎟️*",
+                            "options": {
+                              "media": null,
+                              "buttons": [],
+                              "capture": false,
+                              "child": null,
+                              "delay": 0,
+                              "idle": null,
+                              "ref": null,
+                              "nested": [],
+                              "keyword": {},
+                              "callback": false
+                            },
+                            "refSerialize": "e3a2e045dd4345315ccccd6950b82acf"
+                          },
+                          {
+                            "ref": "key_7fb854d0-1340-4cfd-a592-e14d64e2f52f",
+                            "keyword": [
+                              "3",
+                              "siguiente"
+                            ],
+                            "options": {
+                              "sensitive": false,
+                              "regex": false
+                            },
+                            "refSerialize": "85c607e2f4255bb1fb58447531cc59b0"
+                          },
+                          {
+                            "ref": "ans_5ad7577a-ec8b-4377-b963-449687ecc014",
+                            "keyword": "key_7fb854d0-1340-4cfd-a592-e14d64e2f52f",
+                            "answer": "🤝Gracias por contactar con la oficina de sistemas - área IT.\nHemos generado el ticket N° 8359 📋, el sistema asignó la tarea al técnico 👨‍💻 \"Alejandro Gianuzzi\".\n👉Cerraremos el chat, si necesita algo siempre estaremos disponibles.\n🙏Por favor, nos ayudaría mucho si nos deja una calificación. Del 1 al 5,¿qué tan satisfecho/a está con nuestra atención?🎫 *🎟️*",
+                            "options": {
+                              "media": null,
+                              "buttons": [],
+                              "capture": false,
+                              "child": null,
+                              "delay": 0,
+                              "idle": null,
+                              "ref": null,
+                              "nested": [],
+                              "keyword": {},
+                              "callback": false
+                            },
+                            "refSerialize": "91fb9fabd308822ac8842369a61b295b"
+                          },
+                          {
+                            "ref": "key_2de67bcd-29c1-419e-922c-6fdf5a9fd5d9",
+                            "keyword": [
+                              "4",
+                              "siguiente"
+                            ],
+                            "options": {
+                              "sensitive": false,
+                              "regex": false
+                            },
+                            "refSerialize": "a38b2745eb4352d75af985302f5d0992"
+                          },
+                          {
+                            "ref": "ans_c0aca102-0a2f-4fc1-9455-a1a6c776cb65",
+                            "keyword": "key_2de67bcd-29c1-419e-922c-6fdf5a9fd5d9",
+                            "answer": "🤝Gracias por contactar con la oficina de sistemas - área IT.\nHemos generado el ticket N° 8360 📋, el sistema asignó la tarea al técnico 👨‍💻 \"José Ruiz\".\n👉Cerraremos el chat, si necesita algo siempre estaremos disponibles.\n🙏Por favor, nos ayudaría mucho si nos deja una calificación. Del 1 al 5,¿qué tan satisfecho/a está con nuestra atención?🎫 *🎟️*",
+                            "options": {
+                              "media": null,
+                              "buttons": [],
+                              "capture": false,
+                              "child": null,
+                              "delay": 0,
+                              "idle": null,
+                              "ref": null,
+                              "nested": [],
+                              "keyword": {},
+                              "callback": false
+                            },
+                            "refSerialize": "b2b4efb522c0712359f5fe2d0bb75028"
+                          }
+                        ],
+                        "keyword": {},
+                        "callback": false
+                      },
+                      "refSerialize": "ec2c64f874bd547797ef658b14eff4cb"
+                    }
+                  ],
+                  "keyword": {},
+                  "callback": false
+                },
+                "refSerialize": "d9f88d81b0c92e8710dfb82d2f10be87"
+              },
+              {
+                "ref": "key_411b32cc-1e97-4810-b9d4-272d796a899b",
+                "keyword": [
+                  "2"
+                ],
+                "options": {
+                  "sensitive": false,
+                  "regex": false
+                },
+                "refSerialize": "389a29e5d1b72d14d3fa321bb058be56"
+              },
+              {
+                "ref": "ans_1a49a048-c29d-45c8-98c8-da18ba0cef0d",
+                "keyword": "key_411b32cc-1e97-4810-b9d4-272d796a899b",
+                "answer": "Elije el número que más se acerque a tu problema 👇",
+                "options": {
+                  "media": null,
+                  "buttons": [],
+                  "capture": false,
+                  "child": null,
+                  "delay": 0,
+                  "idle": null,
+                  "ref": null,
+                  "nested": [],
+                  "keyword": {},
+                  "callback": false
+                },
+                "refSerialize": "68adce45549ee7bc0348213af651e860"
+              },
+              {
+                "ref": "ans_2aa8a310-e032-46cc-abcb-258d4e3397ac",
+                "keyword": "ans_1a49a048-c29d-45c8-98c8-da18ba0cef0d",
+                "answer": "\n*1*- No tengo internet 🌐\n\n*2*- Mi PC no enciende 🔌\n\n*3*- No funciona el sistema \"SIAL\" 🌐\n\n*4*- No funciona el sistema \"SAE\" 🌐\n\n*5*- No funciona el sitio https://filestorage.mpftucuman.com.a\n\n*6*- No funciona el sitio https://digital.mpftucuman.com.ar\n\n*7*- Problema con programas varios 😟\n\n*8*- Me olvide mi contraseña 🤦\n\n*9*- Otro  🤷‍♂️",
+                "options": {
+                  "media": null,
+                  "buttons": [],
+                  "capture": false,
+                  "child": null,
+                  "delay": 0,
+                  "idle": null,
+                  "ref": null,
+                  "nested": [],
+                  "keyword": {},
+                  "callback": false
+                },
+                "refSerialize": "5dd5c4d4619e1329635b83cafbf52c4c"
+              }
+            ],
+            "keyword": {},
+            "callback": false
+          },
+          "refSerialize": "3b5651993e635bc31c6d63904933920c"
+        }
+      ],
+      "keyword": {},
+      "callback": false
+    },
+    "refSerialize": "faaf6708440651dfe4a7f7d3a7f309e5",
+    "from": "5493815681474"
+  },
+  {
+    "ref": "53cfe25e-6542-47ba-b1bb-52e79b6391c7",
+    "keyword": "faaf6708440651dfe4a7f7d3a7f309e5",
+    "answer": "🍻🍻🍻🍻🍻",
+    "options": {},
+    "from": "5493815681474",
+    "refSerialize": "7132cf888d59567eac78ff738d82c293"
+  }
+]

@@ -1,0 +1,441 @@
+[handleMsg]:  {
+  key: {
+    remoteJid: '5493815296061@s.whatsapp.net',
+    fromMe: false,
+    id: 'E299F21959DD9D6D0DB37C611B52D21A',
+    participant: undefined
+  },
+  messageTimestamp: 1712667745,
+  pushName: 'Alberto',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: 'Hola ñato querido feliz cumple amigo que tengas un excelente día 🫂🎂🥳🍻',
+      previewType: 0,
+      contextInfo: [ContextInfo],
+      inviteLinkGroupTypeV2: 0
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Hola ñato querido feliz cumple amigo que tengas un excelente día 🫂🎂🥳🍻',
+  from: '5493815296061'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_343c9c54-9393-4db1-8a85-be70c3b2227b',
+  keyword: 'key_4c877e75-b984-419f-8a7d-968da57b4f3b',
+  answer: '👋 Hola, gracias por comunicarte con el soporte técnico del MPF✨. Soy el Sr. T-BOT🤖\n' +
+    'tu asistente virtual. Por favor indícame en que puedo ayudarte, elije el número de la opción que deseas consultar (1, 2, o 3) y te ayudaré.😁',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '730afdfa9562199999859e4ecb31d70f'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_213eae31-3b80-490b-8737-e38bde6011f4',
+  keyword: 'ans_343c9c54-9393-4db1-8a85-be70c3b2227b',
+  answer: '👉 *1*-Generar un ticket de soporte técnico\n' +
+    '👉 *2*-Consultar mi ticket\n' +
+    '👉 *3*-Cancelar mi ticket',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [ [Object], [Object], [Object] ],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: 'faaf6708440651dfe4a7f7d3a7f309e5'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5493815681474@s.whatsapp.net',
+    fromMe: false,
+    id: 'EF1FDB0340FE951498FAC144589CBFA6',
+    participant: undefined
+  },
+  messageTimestamp: 1712668967,
+  pushName: 'AGUSTIN',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: 'HOLA HNO FELIZ CUMPLE Q PASES UN HERMOSO  DIA EN FLIA TE QUEREMOS MUCHO',
+      previewType: 0,
+      contextInfo: [ContextInfo],
+      inviteLinkGroupTypeV2: 0
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'HOLA HNO FELIZ CUMPLE Q PASES UN HERMOSO  DIA EN FLIA TE QUEREMOS MUCHO',
+  from: '5493815681474'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_343c9c54-9393-4db1-8a85-be70c3b2227b',
+  keyword: 'key_4c877e75-b984-419f-8a7d-968da57b4f3b',
+  answer: '👋 Hola, gracias por comunicarte con el soporte técnico del MPF✨. Soy el Sr. T-BOT🤖\n' +
+    'tu asistente virtual. Por favor indícame en que puedo ayudarte, elije el número de la opción que deseas consultar (1, 2, o 3) y te ayudaré.😁',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '730afdfa9562199999859e4ecb31d70f'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_213eae31-3b80-490b-8737-e38bde6011f4',
+  keyword: 'ans_343c9c54-9393-4db1-8a85-be70c3b2227b',
+  answer: '👉 *1*-Generar un ticket de soporte técnico\n' +
+    '👉 *2*-Consultar mi ticket\n' +
+    '👉 *3*-Cancelar mi ticket',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [ [Object], [Object], [Object] ],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: 'faaf6708440651dfe4a7f7d3a7f309e5'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5493815681474@s.whatsapp.net',
+    fromMe: false,
+    id: '48922CBFEF2328F6E92D9946BBC091E4',
+    participant: undefined
+  },
+  messageTimestamp: 1712669019,
+  pushName: 'AGUSTIN',
+  broadcast: false,
+  message: Message {
+    conversation: '🎂🎂🎂🥳🥳🥳🥳😘😘😘😘😘',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: '🎂🎂🎂🥳🥳🥳🥳😘😘😘😘😘',
+  from: '5493815681474'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5493815681474@s.whatsapp.net',
+    fromMe: false,
+    id: 'E695A334AFBCC2CB0417356E3829B02A',
+    participant: undefined
+  },
+  messageTimestamp: 1712669273,
+  pushName: 'AGUSTIN',
+  broadcast: false,
+  message: Message {
+    conversation: 'FELIZ CUMPLE 🥳🥳🥳🥳🎂🎂🎂🎂 PARA ANTHONY',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'FELIZ CUMPLE 🥳🥳🥳🥳🎂🎂🎂🎂 PARA ANTHONY',
+  from: '5493815681474'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_343c9c54-9393-4db1-8a85-be70c3b2227b',
+  keyword: 'key_4c877e75-b984-419f-8a7d-968da57b4f3b',
+  answer: '👋 Hola, gracias por comunicarte con el soporte técnico del MPF✨. Soy el Sr. T-BOT🤖\n' +
+    'tu asistente virtual. Por favor indícame en que puedo ayudarte, elije el número de la opción que deseas consultar (1, 2, o 3) y te ayudaré.😁',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '730afdfa9562199999859e4ecb31d70f'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_213eae31-3b80-490b-8737-e38bde6011f4',
+  keyword: 'ans_343c9c54-9393-4db1-8a85-be70c3b2227b',
+  answer: '👉 *1*-Generar un ticket de soporte técnico\n' +
+    '👉 *2*-Consultar mi ticket\n' +
+    '👉 *3*-Cancelar mi ticket',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [ [Object], [Object], [Object] ],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: 'faaf6708440651dfe4a7f7d3a7f309e5'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5493815681474@s.whatsapp.net',
+    fromMe: false,
+    id: '696F124315674C449FCEB1F1DFC642C8',
+    participant: undefined
+  },
+  messageTimestamp: 1712669300,
+  pushName: 'AGUSTIN',
+  broadcast: false,
+  message: Message {
+    conversation: '🍻🍻🍻🍻🍻',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: '🍻🍻🍻🍻🍻',
+  from: '5493815681474'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '1711994920@broadcast',
+    fromMe: false,
+    id: '2787554817A2A43210BDFF089B484D5F',
+    participant: '5493813688247@s.whatsapp.net'
+  },
+  messageTimestamp: 1712669449,
+  pushName: 'Patio Norte',
+  broadcast: true,
+  message: Message {
+    senderKeyDistributionMessage: SenderKeyDistributionMessage {
+      groupId: '1711994920@broadcast',
+      axolotlSenderKeyDistributionMessage: [Uint8Array]
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    },
+    extendedTextMessage: ExtendedTextMessage {
+      text: '*PATIO NORTE*\n' +
+        '\n' +
+        'BUEN DIA 🌥️\n' +
+        'HOY DE MENU 👇\n' +
+        '🍽️BISTEC DE PAPAS (VERDURAS, CARNE, HUEVO Y PAPA)\n' +
+        '$2700 😋😋😋\n' +
+        '\n' +
+        '🍗 *POLLO AL* *HORNO BIEN  ADOBADO CON *GUARNICIÓN $8000* \n' +
+        '\n' +
+        '🍗 1/ 4 DE POLLO AL HORNO CON GUARNICIÓN $3000\n' +
+        '\n' +
+        ' 🍴*MILANESA AL* *PLATO CON* *GUARNICIÓN $3000* \n' +
+        '\n' +
+        '🍴MILANESA A CABALLO CON  GUARNICIÓN  $3500\n' +
+        '\n' +
+        '🍽️ *2 KIPES CON* *GUARNICIÓN $2800* *O $1000 C/U* \n' +
+        '\n' +
+        '🧆 *2 BOMBAS DE CARNE O QUESO* *CON GUARNICIÓN*  *$2800 O $1000 C/U*\n' +
+        '\n' +
+        '🥟 *TARTAS DE* *CHOCLO HUEVO Y QUESO $3500*\n' +
+        '\n' +
+        '🥟 TARTAS DE ACELGA, HUEVO Y QUESO $3500 \n' +
+        '\n' +
+        '\n' +
+        '🥮 *TORTILLA DE PAPAS  A 💲 2500*\n' +
+        'CON GUARNICIÓN $3300\n' +
+        '\n' +
+        ' *GUARNICIONES* *DISPONIBLE!!!*\n' +
+        '\n' +
+        '🍲 *ARRÓZ PRIMAVERA*\n' +
+        '🍟 PAPAS FRITAS \n' +
+        '🥗 *ENSALADA MIXTA* \n' +
+        '🥔 *FIDEO* *AL* *PESTO* \n' +
+        '     *💲 2700*\n' +
+        '\n' +
+        '🥟 *EMPANADAS GRANDES*\n' +
+        '🥟 *CARNE*\n' +
+        '🥟 *POLLO*\n' +
+        '🥟 *SFIJAS* \n' +
+        '🥟 *JAMON* *Y* *QUESO*\n' +
+        '🥟 CEBOLLA Y QUESO \n' +
+        ' *💲5500 LA DC*\n' +
+        '*1/2 *💲 2800*DC* \n' +
+        '\n' +
+        '🍕🍕 **PIZZAS* \n' +
+        ' *COMUN* *$3300* \n' +
+        ' *ESPECIAL*  *$4000* \n' +
+        ' *NAPOLITANA* *$4000* \n' +
+        ' *PRIMAVERA* *$4000* \n' +
+        ' *FUGAZZA* *$400\n' +
+        '0* \n' +
+        '\n' +
+        '🥪 **SÁNDWICH* *COMÚN* A *$ 3300* \n' +
+        '\n' +
+        ' 🥪 *SÁNDWICH ESPECIAL A 💲 3800*\n' +
+        '\n' +
+        '🍔 HAMBURGUESA GIGANTE $3300\n' +
+        '\n' +
+        '🍔 HAMBURGUESA GIGANTE ESPECIAL $3800\n' +
+        '\n' +
+        '💣 *NAPOLITANA ×1 💲 3600*\n' +
+        '\n' +
+        '💣 *NAPOLITANA ×2 💲 7000\n' +
+        '\n' +
+        '☑️NAPOLITANA X1 CON HUEVO $4000\n' +
+        '\n' +
+        '☑️NAPOLITANA X2 CON HUEVOS $7600\n' +
+        '\n' +
+        '*⏰ HORARIOS⏰*\n' +
+        '\n' +
+        '💡 *LUNES A DOMINGO DE 10:00 A 15:00 HS*\n' +
+        '\n' +
+        '\n' +
+        '🤳 *ENVIOS SIN CARGO*  🛵🛵🛵\n' +
+        '\n' +
+        '\n' +
+        '*Celu* 📲 *3813688247*\n' +
+        '*Fijo* ☎️ *2330900*\n' +
+        '\n' +
+        ' *SE RECIBE TRANSFERENCIA*',
+      previewType: 0,
+      contextInfo: [ContextInfo],
+      inviteLinkGroupTypeV2: 0
+    }
+  },
+  body: '*PATIO NORTE*\n' +
+    '\n' +
+    'BUEN DIA 🌥️\n' +
+    'HOY DE MENU 👇\n' +
+    '🍽️BISTEC DE PAPAS (VERDURAS, CARNE, HUEVO Y PAPA)\n' +
+    '$2700 😋😋😋\n' +
+    '\n' +
+    '🍗 *POLLO AL* *HORNO BIEN  ADOBADO CON *GUARNICIÓN $8000* \n' +
+    '\n' +
+    '🍗 1/ 4 DE POLLO AL HORNO CON GUARNICIÓN $3000\n' +
+    '\n' +
+    ' 🍴*MILANESA AL* *PLATO CON* *GUARNICIÓN $3000* \n' +
+    '\n' +
+    '🍴MILANESA A CABALLO CON  GUARNICIÓN  $3500\n' +
+    '\n' +
+    '🍽️ *2 KIPES CON* *GUARNICIÓN $2800* *O $1000 C/U* \n' +
+    '\n' +
+    '🧆 *2 BOMBAS DE CARNE O QUESO* *CON GUARNICIÓN*  *$2800 O $1000 C/U*\n' +
+    '\n' +
+    '🥟 *TARTAS DE* *CHOCLO HUEVO Y QUESO $3500*\n' +
+    '\n' +
+    '🥟 TARTAS DE ACELGA, HUEVO Y QUESO $3500 \n' +
+    '\n' +
+    '\n' +
+    '🥮 *TORTILLA DE PAPAS  A 💲 2500*\n' +
+    'CON GUARNICIÓN $3300\n' +
+    '\n' +
+    ' *GUARNICIONES* *DISPONIBLE!!!*\n' +
+    '\n' +
+    '🍲 *ARRÓZ PRIMAVERA*\n' +
+    '🍟 PAPAS FRITAS \n' +
+    '🥗 *ENSALADA MIXTA* \n' +
+    '🥔 *FIDEO* *AL* *PESTO* \n' +
+    '     *💲 2700*\n' +
+    '\n' +
+    '🥟 *EMPANADAS GRANDES*\n' +
+    '🥟 *CARNE*\n' +
+    '🥟 *POLLO*\n' +
+    '🥟 *SFIJAS* \n' +
+    '🥟 *JAMON* *Y* *QUESO*\n' +
+    '🥟 CEBOLLA Y QUESO \n' +
+    ' *💲5500 LA DC*\n' +
+    '*1/2 *💲 2800*DC* \n' +
+    '\n' +
+    '🍕🍕 **PIZZAS* \n' +
+    ' *COMUN* *$3300* \n' +
+    ' *ESPECIAL*  *$4000* \n' +
+    ' *NAPOLITANA* *$4000* \n' +
+    ' *PRIMAVERA* *$4000* \n' +
+    ' *FUGAZZA* *$400\n' +
+    '0* \n' +
+    '\n' +
+    '🥪 **SÁNDWICH* *COMÚN* A *$ 3300* \n' +
+    '\n' +
+    ' 🥪 *SÁNDWICH ESPECIAL A 💲 3800*\n' +
+    '\n' +
+    '🍔 HAMBURGUESA GIGANTE $3300\n' +
+    '\n' +
+    '🍔 HAMBURGUESA GIGANTE ESPECIAL $3800\n' +
+    '\n' +
+    '💣 *NAPOLITANA ×1 💲 3600*\n' +
+    '\n' +
+    '💣 *NAPOLITANA ×2 💲 7000\n' +
+    '\n' +
+    '☑️NAPOLITANA X1 CON HUEVO $4000\n' +
+    '\n' +
+    '☑️NAPOLITANA X2 CON HUEVOS $7600\n' +
+    '\n' +
+    '*⏰ HORARIOS⏰*\n' +
+    '\n' +
+    '💡 *LUNES A DOMINGO DE 10:00 A 15:00 HS*\n' +
+    '\n' +
+    '\n' +
+    '🤳 *ENVIOS SIN CARGO*  🛵🛵🛵\n' +
+    '\n' +
+    '\n' +
+    '*Celu* 📲 *3813688247*\n' +
+    '*Fijo* ☎️ *2330900*\n' +
+    '\n' +
+    ' *SE RECIBE TRANSFERENCIA*',
+  from: '1711994920@broadcast'
+}
+[ERROR ID (ans_343c9c54-9393-4db1-8a85-be70c3b2227b)]:  Error: Timed Out
+    at /temp/base-baileys-json/node_modules/@whiskeysockets/baileys/lib/Utils/generics.js:136:32 {
+  data: {
+    stack: 'Error\n' +
+      '    at promiseTimeout (/temp/base-baileys-json/node_modules/@whiskeysockets/baileys/lib/Utils/generics.js:131:19)\n' +
+      '    at waitForMessage (/temp/base-baileys-json/node_modules/@whiskeysockets/baileys/lib/Socket/socket.js:114:53)\n' +
+      '    at query (/temp/base-baileys-json/node_modules/@whiskeysockets/baileys/lib/Socket/socket.js:136:22)\n' +
+      '    at getUSyncDevices (/temp/base-baileys-json/node_modules/@whiskeysockets/baileys/lib/Socket/messages-send.js:166:30)\n' +
+      '    at /temp/base-baileys-json/node_modules/@whiskeysockets/baileys/lib/Socket/messages-send.js:355:53\n' +
+      '    at Object.transaction (/temp/base-baileys-json/node_modules/@whiskeysockets/baileys/lib/Utils/auth-utils.js:136:32)\n' +
+      '    at relayMessage (/temp/base-baileys-json/node_modules/@whiskeysockets/baileys/lib/Socket/messages-send.js:278:30)\n' +
+      '    at Object.sendMessage (/temp/base-baileys-json/node_modules/@whiskeysockets/baileys/lib/Socket/messages-send.js:649:23)\n' +
+      '    at async CoreClass.sendProviderAndSave (/temp/base-baileys-json/node_modules/@bot-whatsapp/bot/lib/bundle.bot.cjs:1490:21)\n' +
+      '    at async Object.promiseInFunc (/temp/base-baileys-json/node_modules/@bot-whatsapp/bot/lib/bundle.bot.cjs:1183:29)'
+  },
+  isBoom: true,
+  isServer: false,
+  output: {
+    statusCode: 408,
+    payload: {
+      statusCode: 408,
+      error: 'Request Time-out',
+      message: 'Timed Out'
+    },
+    headers: {}
+  }
+}
