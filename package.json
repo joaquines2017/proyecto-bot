@@ -11,15 +11,16 @@
     "dependencies": {
         "@bot-whatsapp/bot": "latest",
         "@bot-whatsapp/cli": "latest",
-        "@bot-whatsapp/database": "latest",
+        "@bot-whatsapp/database": "^0.0.1",
         "@bot-whatsapp/portal": "latest",
-        "@bot-whatsapp/provider": "latest",
+        "@bot-whatsapp/provider": "^0.1.24",
         "@whiskeysockets/baileys": "6.5.0",
         "axios": "^1.6.2",
         "cache-manager": "5.2.4",
         "mime-types": "2.1.35",
+        "or": "^0.2.0",
         "sharp": "^0.33.3",
-        "wa-sticker-formatter": "4.4.4"
+        "wa-sticker-formatter": "^3.6.0"
     },
     "devDependencies": {
         "eslint": "^8.52.0",
